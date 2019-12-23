@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<criteria>
+    <criterion>
+    <name>نزول  {0} با انتهای مقعر</name>
+    <id>q3</id>
+    <headperiod>2</headperiod>
+    <headslope>Positive</headslope>
+    <headrangemin>-9999</headrangemin>
+    <headrangemax>0</headrangemax>
+    <headavgamount>N</headavgamount>
+    <headsrposition>N</headsrposition>
+    <tailperiod>20</tailperiod>
+    <tailslope>Flat</tailslope>
+    <tailrangemin>-9999</tailrangemin>
+    <tailrangemax>0</tailrangemax>
+    <taildistribution>0.5</taildistribution>
+    <tailtolerance>0.4</tailtolerance>
+    <tailavgamount>N</tailavgamount>
+  </criterion>
+  <criterion>
+    <name>افزایش {0} در آخرین حرکت</name>
+    <id>v1</id>
+    <headperiod>1</headperiod>
+    <headslope>Flat</headslope>
+    <headrangemin>0</headrangemin>
+    <headrangemax>9999</headrangemax>
+    <headavgamount>N</headavgamount>
+    <headsrposition>N</headsrposition>
+    <tailperiod>5</tailperiod>
+    <tailslope>Flat</tailslope>
+    <tailrangemin>-9999</tailrangemin>
+    <tailrangemax>9999</tailrangemax>
+    <taildistribution>1</taildistribution>
+    <tailtolerance>1</tailtolerance>
+    <tailavgamount>N</tailavgamount>
+  </criterion>
+  <criterion>
+    <name>کاهش {0} در آخرین حرکت</name>
+    <id>n1</id>
+    <headperiod>1</headperiod>
+    <headslope>Flat</headslope>
+    <headrangemin>-9999</headrangemin>
+    <headrangemax>0</headrangemax>
+    <headavgamount>N</headavgamount>
+    <headsrposition>N</headsrposition>
+    <tailperiod>10</tailperiod>
+    <tailslope>Flat</tailslope>
+    <tailrangemin>-9999</tailrangemin>
+    <tailrangemax>9999</tailrangemax>
+    <taildistribution>1</taildistribution>
+    <tailtolerance>1</tailtolerance>
+    <tailavgamount>N</tailavgamount>
+  </criterion>
+  <criterion>
+    <name>افزایش حداقل 4 برابری {0} در آخرین حرکت</name>
+    <id>v111</id>
+    <headperiod>1</headperiod>
+    <headslope>Flat</headslope>
+    <headrangemin>3</headrangemin>
+    <headrangemax>9999</headrangemax>
+    <headavgamount>N</headavgamount>
+    <headsrposition>N</headsrposition>
+    <tailperiod>10</tailperiod>
+    <tailslope>Flat</tailslope>
+    <tailrangemin>-9999</tailrangemin>
+    <tailrangemax>9999</tailrangemax>
+    <taildistribution>1</taildistribution>
+    <tailtolerance>1</tailtolerance>
+    <tailavgamount>N</tailavgamount>
+  </criterion>
+  <criterion>
+    <name>مقدار {0} بیش از میانگین مقدار تاریخی</name>
+    <id>v2</id>
+    <headperiod>1</headperiod>
+    <headslope>Flat</headslope>
+    <headrangemin>-9999</headrangemin>
+    <headrangemax>9999</headrangemax>
+    <headavgamount>AA</headavgamount>
+    <headsrposition>N</headsrposition>
+    <tailperiod>10</tailperiod>
+    <tailslope>Flat</tailslope>
+    <tailrangemin>-9999</tailrangemin>
+    <tailrangemax>9999</tailrangemax>
+    <taildistribution>1</taildistribution>
+    <tailtolerance>1</tailtolerance>
+    <tailavgamount>N</tailavgamount>
+  </criterion>
+  <criterion>
+    <name>مقدار {0} بیش از یک پنجم بیشترین مقدار تاریخی</name>
+    <id>v22</id>
+    <headperiod>1</headperiod>
+    <headslope>Flat</headslope>
+    <headrangemin>-9999</headrangemin>
+    <headrangemax>9999</headrangemax>
+    <headavgamount>OOF</headavgamount>
+    <headsrposition>N</headsrposition>
+    <tailperiod>10</tailperiod>
+    <tailslope>Flat</tailslope>
+    <tailrangemin>-9999</tailrangemin>
+    <tailrangemax>9999</tailrangemax>
+    <taildistribution>1</taildistribution>
+    <tailtolerance>1</tailtolerance>
+    <tailavgamount>N</tailavgamount>
+  </criterion>
+  <criterion>
+    <name>موقعیت {0} زیر 20 درصد عرض کانال</name>
+    <id>v3</id>
+    <headperiod>1</headperiod>
+    <headslope>Flat</headslope>
+    <headrangemin>-9999</headrangemin>
+    <headrangemax>9999</headrangemax>
+    <headavgamount>N</headavgamount>
+    <headsrposition>U10</headsrposition>
+    <tailperiod>10</tailperiod>
+    <tailslope>Flat</tailslope>
+    <tailrangemin>-9999</tailrangemin>
+    <tailrangemax>9999</tailrangemax>
+    <taildistribution>1</taildistribution>
+    <tailtolerance>1</tailtolerance>
+    <tailavgamount>N</tailavgamount>
+  </criterion>
+
+</criteria>

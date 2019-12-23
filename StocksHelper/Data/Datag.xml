@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <list>High</list>
+  <list>Low</list>
+  <list>Open</list>
+  <list>Close</list>
+  <list>Volume</list>
+  <list>ValueOfTrades</list>
+  <list>NumberOfTrades</list>
+  <list>Pendulum</list>
+  <list>Hammer</list>
+</data>

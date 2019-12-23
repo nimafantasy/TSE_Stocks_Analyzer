@@ -1,0 +1,3170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<market>
+  <category name="زراعت" filename="IRX6X01T0007.csv">
+    <stock name="زمگسا-ت">
+      <filename>IRO1MAGS0006-a.csv</filename>
+      <tsetid>5054819322815158</tsetid>
+      <basevolume>64226</basevolume>
+      <outstandingshares>16800000</outstandingshares>
+      <totalshares>120000000</totalshares>
+      <eps>1047</eps>
+    </stock>
+  </category>
+  <category name="خودرو" filename="IRX6X34T0008.csv">
+    <stock name="خاهن-ت">
+      <filename>IRO1ATIR0008-a.csv</filename>
+      <tsetid>7483280423474368</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>730649000</outstandingshares>
+      <totalshares>730649000</totalshares>
+      <eps>160</eps>
+    </stock>
+    <stock name="خاذین-ت">
+      <filename>IRO1AZIN0004-a.csv</filename>
+      <tsetid>42075223783409640</tsetid>
+      <basevolume>508647</basevolume>
+      <outstandingshares>470509355</outstandingshares>
+      <totalshares>1022846423</totalshares>
+      <eps>5</eps>
+    </stock>
+    <stock name="خچرخش-ت">
+      <filename>IRO1CHAR0008-a.csv</filename>
+      <tsetid>33783140337377394</tsetid>
+      <basevolume>380838</basevolume>
+      <outstandingshares>66646632</outstandingshares>
+      <totalshares>952094749</totalshares>
+      <eps>37</eps>
+    </stock>
+    <stock name="خزر-ت">
+      <filename>IRO1FNAR0007-a.csv</filename>
+      <tsetid>32821908911812078</tsetid>
+      <basevolume>177557</basevolume>
+      <outstandingshares>57500000</outstandingshares>
+      <totalshares>230000000</totalshares>
+      <eps>120</eps>
+    </stock>
+    <stock name="ختوقا-ت">
+      <filename>IRO1GHAT0002-a.csv</filename>
+      <tsetid>70289374539527245</tsetid>
+      <basevolume>278707</basevolume>
+      <outstandingshares>247000000</outstandingshares>
+      <totalshares>650000000</totalshares>
+      <eps>93</eps>
+    </stock>
+    <stock name="خگستر-ت">
+      <filename>IRO1GOST0003-a.csv</filename>
+      <tsetid>48990026850202503</tsetid>
+      <basevolume>600000</basevolume>
+      <outstandingshares>330000000</outstandingshares>
+      <totalshares>1500000000</totalshares>
+      <eps>134</eps>
+    </stock>
+    <stock name="خعتبار-ت">
+      <filename>IRO1IDOC0007-a.csv</filename>
+      <tsetid>47841327496247362</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>800000000</outstandingshares>
+      <totalshares>800000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="خودرو-ت">
+      <filename>IRO1IKCO0008-a.csv</filename>
+      <tsetid>65883838195688438</tsetid>
+      <basevolume>3315650</basevolume>
+      <outstandingshares>5049000000</outstandingshares>
+      <totalshares>15300000000</totalshares>
+      <eps>78</eps>
+    </stock>
+    <stock name="خکمک-ت">
+      <filename>IRO1INDM0006-a.csv</filename>
+      <tsetid>19257295292088310</tsetid>
+      <basevolume>323625</basevolume>
+      <outstandingshares>112300055</outstandingshares>
+      <totalshares>320857300</totalshares>
+      <eps>5</eps>
+    </stock>
+    <stock name="خاور-ت">
+      <filename>IRO1KAVR0000-a.csv</filename>
+      <tsetid>67059303301834130</tsetid>
+      <basevolume>1995624</basevolume>
+      <outstandingshares>2045514190</outstandingshares>
+      <totalshares>4989059000</totalshares>
+      <eps>-779</eps>
+    </stock>
+    <stock name="خفنر-ت">
+      <filename>IRO1KFAN0004-a.csv</filename>
+      <tsetid>28033133021443774</tsetid>
+      <basevolume>170823</basevolume>
+      <outstandingshares>8000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>101</eps>
+    </stock>
+    <stock name="خشرق-ت">
+      <filename>IRO1KHSH0000-a.csv</filename>
+      <tsetid>63915926161403347</tsetid>
+      <basevolume>221435</basevolume>
+      <outstandingshares>97650000</outstandingshares>
+      <totalshares>315000000</totalshares>
+      <eps>96</eps>
+    </stock>
+    <stock name="خکار-ت">
+      <filename>IRO1KRIR0008-a.csv</filename>
+      <tsetid>59217041815333317</tsetid>
+      <basevolume>331785</basevolume>
+      <outstandingshares>268492200</outstandingshares>
+      <totalshares>447487000</totalshares>
+      <eps>176</eps>
+    </stock>
+    <stock name="خلنت-ت">
+      <filename>IRO1LENT0003-a.csv</filename>
+      <tsetid>14957056743925737</tsetid>
+      <basevolume>189970</basevolume>
+      <outstandingshares>20240000</outstandingshares>
+      <totalshares>88000000</totalshares>
+      <eps>15</eps>
+    </stock>
+    <stock name="خوساز-ت">
+      <filename>IRO1MESI0000-a.csv</filename>
+      <tsetid>31879190587976736</tsetid>
+      <basevolume>147232</basevolume>
+      <outstandingshares>80000000</outstandingshares>
+      <totalshares>250000000</totalshares>
+      <eps>51</eps>
+    </stock>
+    <stock name="خمهر-ت">
+      <filename>IRO1MHKM0009-a.csv</filename>
+      <tsetid>17330546482145553</tsetid>
+      <basevolume>331200</basevolume>
+      <outstandingshares>157320000</outstandingshares>
+      <totalshares>828000000</totalshares>
+      <eps>61</eps>
+    </stock>
+    <stock name="خنصیر-ت">
+      <filename>IRO1MNSR0008-a.csv</filename>
+      <tsetid>17834623106317041</tsetid>
+      <basevolume>168464</basevolume>
+      <outstandingshares>24406598</outstandingshares>
+      <totalshares>87166420</totalshares>
+      <eps>403</eps>
+    </stock>
+    <stock name="خموتور-ت">
+      <filename>IRO1MSTI0003-a.csv</filename>
+      <tsetid>57273529732791251</tsetid>
+      <basevolume>202840</basevolume>
+      <outstandingshares>24494400</outstandingshares>
+      <totalshares>204120000</totalshares>
+      <eps>58</eps>
+    </stock>
+    <stock name="خپارس-ت">
+      <filename>IRO1PKOD0008-a.csv</filename>
+      <tsetid>42354736493447489</tsetid>
+      <basevolume>2709541</basevolume>
+      <outstandingshares>2167632960</outstandingshares>
+      <totalshares>6773853000</totalshares>
+      <eps>25</eps>
+    </stock>
+    <stock name="ختور-ت">
+      <filename>IRO1RADI0006-a.csv</filename>
+      <tsetid>50185721305191887</tsetid>
+      <basevolume>167842</basevolume>
+      <outstandingshares>87000000</outstandingshares>
+      <totalshares>300000000</totalshares>
+      <eps>523</eps>
+    </stock>
+    <stock name="ورنا-ت">
+      <filename>IRO1RENA0008-a.csv</filename>
+      <tsetid>7385624172574740</tsetid>
+      <basevolume>2400000</basevolume>
+      <outstandingshares>2520000000</outstandingshares>
+      <totalshares>6000000000</totalshares>
+      <eps>300</eps>
+    </stock>
+    <stock name="خریخت-ت">
+      <filename>IRO1RIIR0002-a.csv</filename>
+      <tsetid>12752224677923341</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>400000000</outstandingshares>
+      <totalshares>400000000</totalshares>
+      <eps>37</eps>
+    </stock>
+    <stock name="خرینگ-ت">
+      <filename>IRO1RINM0000-a.csv</filename>
+      <tsetid>45895339414786358</tsetid>
+      <basevolume>404858</basevolume>
+      <outstandingshares>213600000</outstandingshares>
+      <totalshares>445000000</totalshares>
+      <eps>-204</eps>
+    </stock>
+    <stock name="ختراک-ت">
+      <filename>IRO1RTIR0009-a.csv</filename>
+      <tsetid>22903901709044823</tsetid>
+      <basevolume>101916</basevolume>
+      <outstandingshares>42600000</outstandingshares>
+      <totalshares>213000000</totalshares>
+      <eps>80</eps>
+    </stock>
+    <stock name="خساپا-ت">
+      <filename>IRO1SIPA0001-a.csv</filename>
+      <tsetid>44891482026867833</tsetid>
+      <basevolume>8673027</basevolume>
+      <outstandingshares>9816668750</outstandingshares>
+      <totalshares>39266675000</totalshares>
+      <eps>102</eps>
+    </stock>
+    <stock name="خکاوه-ت">
+      <filename>IRO1SPDZ0007-a.csv</filename>
+      <tsetid>51922189364308501</tsetid>
+      <basevolume>840000</basevolume>
+      <outstandingshares>903000000</outstandingshares>
+      <totalshares>2100000000</totalshares>
+      <eps>1</eps>
+    </stock>
+    <stock name="خپویش-ت">
+      <filename>IRO1SZPO0004-a.csv</filename>
+      <tsetid>4758266259250794</tsetid>
+      <basevolume>40000</basevolume>
+      <outstandingshares>7000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>2861</eps>
+    </stock>
+    <stock name="خمحور-ت">
+      <filename>IRO1TMKH0002-a.csv</filename>
+      <tsetid>7457232989848872</tsetid>
+      <basevolume>168296</basevolume>
+      <outstandingshares>25244460</outstandingshares>
+      <totalshares>420741000</totalshares>
+      <eps>15</eps>
+    </stock>
+    <stock name="خزامیا-ت">
+      <filename>IRO1ZMYD0002-a.csv</filename>
+      <tsetid>2589887561569709</tsetid>
+      <basevolume>2211957</basevolume>
+      <outstandingshares>2764946000</outstandingshares>
+      <totalshares>5529892000</totalshares>
+      <eps>81</eps>
+    </stock>
+    <stock name="خدیزل-ت">
+      <filename>IRO3DZLZ0000-a.csv</filename>
+      <tsetid>38084304113529336</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1000000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>785</eps>
+    </stock>
+    <stock name="خفناور-ت">
+      <filename>IRO3RFNZ0006-a.csv</filename>
+      <tsetid>7727396367939916</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>29409019</outstandingshares>
+      <totalshares>29409019</totalshares>
+      <eps>108</eps>
+    </stock>
+    <stock name="خدیزل-ت">
+      <filename>IRO7DZLP0008-a.csv</filename>
+      <tsetid>38084304113529336</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1000000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>785</eps>
+    </stock>
+  </category>
+  <category name="بانک‌ها" filename="IRX6X57T0000.csv">
+    <stock name="وانصار-ت">
+      <filename>IRO1BANS0000-a.csv</filename>
+      <tsetid>56271726572478068</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>2000000000</outstandingshares>
+      <totalshares>2000000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وخاور-ت">
+      <filename>IRO1BKHZ0007-a.csv</filename>
+      <tsetid>25661711955019337</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1000000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وبملت-ت">
+      <filename>IRO1BMLT0007-a.csv</filename>
+      <tsetid>778253364357513</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>40000000000</outstandingshares>
+      <totalshares>40000000000</totalshares>
+      <eps>501</eps>
+    </stock>
+    <stock name="وپاسار-ت">
+      <filename>IRO1BPAS0008-a.csv</filename>
+      <tsetid>9536587154100457</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>50400000000</outstandingshares>
+      <totalshares>50400000000</totalshares>
+      <eps>281</eps>
+    </stock>
+    <stock name="وپست-ت">
+      <filename>IRO1BPST0007-a.csv</filename>
+      <tsetid>22087269603540841</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>3233451000</outstandingshares>
+      <totalshares>3233451000</totalshares>
+      <eps>25</eps>
+    </stock>
+    <stock name="وبصادر-ت">
+      <filename>IRO1BSDR0003-a.csv</filename>
+      <tsetid>28320293733348826</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>57800000000</outstandingshares>
+      <totalshares>57800000000</totalshares>
+      <eps>160</eps>
+    </stock>
+    <stock name="وتجارت-ت">
+      <filename>IRO1BTEJ0001-a.csv</filename>
+      <tsetid>63917421733088077</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>45700000000</outstandingshares>
+      <totalshares>45700000000</totalshares>
+      <eps>167</eps>
+    </stock>
+    <stock name="ونوین-ت">
+      <filename>IRO1NOVN0005-a.csv</filename>
+      <tsetid>47302318535715632</tsetid>
+      <basevolume>4315926</basevolume>
+      <outstandingshares>1357440000</outstandingshares>
+      <totalshares>11312000000</totalshares>
+      <eps>311</eps>
+    </stock>
+    <stock name="وسینا-ت">
+      <filename>IRO1VSIN0008-a.csv</filename>
+      <tsetid>45050389997905274</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>10000000000</outstandingshares>
+      <totalshares>10000000000</totalshares>
+      <eps>264</eps>
+    </stock>
+    <stock name="دی-ت">
+      <filename>IRO3BDYZ0003-a.csv</filename>
+      <tsetid>26014913469567886</tsetid>
+      <basevolume>5422993</basevolume>
+      <outstandingshares>7833600000</outstandingshares>
+      <totalshares>46080000000</totalshares>
+      <eps>404</eps>
+    </stock>
+    <stock name="حکمت-ت">
+      <filename>IRO3BHKZ0005-a.csv</filename>
+      <tsetid>7881099657101647</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>4000000000</outstandingshares>
+      <totalshares>4000000000</totalshares>
+      <eps>150</eps>
+    </stock>
+    <stock name="وگردش-ت">
+      <filename>IRO3GRDZ0007-a.csv</filename>
+      <tsetid>66790687790437196</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>6000000000</outstandingshares>
+      <totalshares>6000000000</totalshares>
+      <eps>84</eps>
+    </stock>
+    <stock name="سمایه-ت">
+      <filename>IRO3IBKZ0004-a.csv</filename>
+      <tsetid>10411612959317157</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>4000000000</outstandingshares>
+      <totalshares>4000000000</totalshares>
+      <eps>141</eps>
+    </stock>
+    <stock name="وکوثر-ت">
+      <filename>IRO3KOSZ0007-a.csv</filename>
+      <tsetid>41036181221659834</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>6000000000</outstandingshares>
+      <totalshares>6000000000</totalshares>
+      <eps>200</eps>
+    </stock>
+    <stock name="حکمت-ت">
+      <filename>IRO7BHKP0003-a.csv</filename>
+      <tsetid>7881099657101647</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>4000000000</outstandingshares>
+      <totalshares>4000000000</totalshares>
+      <eps>150</eps>
+    </stock>
+    <stock name="وکوثر-ت">
+      <filename>IRO7KOSP0005-a.csv</filename>
+      <tsetid>41036181221659834</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>6000000000</outstandingshares>
+      <totalshares>6000000000</totalshares>
+      <eps>200</eps>
+    </stock>
+    <stock name="وسین-ت">
+      <filename>IRO7VSNP0003-a.csv</filename>
+      <tsetid>45050389997905274</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>10000000000</outstandingshares>
+      <totalshares>10000000000</totalshares>
+      <eps>264</eps>
+    </stock>
+  </category>
+  <category name="فلزات اساسی" filename="IRX6X27T0007.csv">
+    <stock name="فمراد-ت">
+      <filename>IRO1ALMR0000-a.csv</filename>
+      <tsetid>18004480270695404</tsetid>
+      <basevolume>164962</basevolume>
+      <outstandingshares>12383874</outstandingshares>
+      <totalshares>49535498</totalshares>
+      <eps>4</eps>
+    </stock>
+    <stock name="فباهنر-ت">
+      <filename>IRO1BAHN0003-a.csv</filename>
+      <tsetid>66772024744156373</tsetid>
+      <basevolume>360000</basevolume>
+      <outstandingshares>180000000</outstandingshares>
+      <totalshares>900000000</totalshares>
+      <eps>141</eps>
+    </stock>
+    <stock name="فولاژ-ت">
+      <filename>IRO1FAIR0004-a.csv</filename>
+      <tsetid>40808043719554948</tsetid>
+      <basevolume>1664000</basevolume>
+      <outstandingshares>249600000</outstandingshares>
+      <totalshares>4160000000</totalshares>
+      <eps>51</eps>
+    </stock>
+    <stock name="فخاس-ت">
+      <filename>IRO1FKAS0009-a.csv</filename>
+      <tsetid>4733285133017464</tsetid>
+      <basevolume>2384927</basevolume>
+      <outstandingshares>160000000</outstandingshares>
+      <totalshares>8000000000</totalshares>
+      <eps>84</eps>
+    </stock>
+    <stock name="فخوز-ت">
+      <filename>IRO1FKHZ0003-a.csv</filename>
+      <tsetid>28864540805361867</tsetid>
+      <basevolume>3852080</basevolume>
+      <outstandingshares>2749680000</outstandingshares>
+      <totalshares>14472000000</totalshares>
+      <eps>153</eps>
+    </stock>
+    <stock name="فولاد-ت">
+      <filename>IRO1FOLD0009-a.csv</filename>
+      <tsetid>46348559193224090</tsetid>
+      <basevolume>8453085</basevolume>
+      <outstandingshares>17250000000</outstandingshares>
+      <totalshares>75000000000</totalshares>
+      <eps>138</eps>
+    </stock>
+    <stock name="فروس-ت">
+      <filename>IRO1FRIS0004-a.csv</filename>
+      <tsetid>54419429862704331</tsetid>
+      <basevolume>349796</basevolume>
+      <outstandingshares>314816760</outstandingshares>
+      <totalshares>874491000</totalshares>
+      <eps>59</eps>
+    </stock>
+    <stock name="فرآور-ت">
+      <filename>IRO1FRVR0008-a.csv</filename>
+      <tsetid>408934423224097</tsetid>
+      <basevolume>108366</basevolume>
+      <outstandingshares>36000000</outstandingshares>
+      <totalshares>120000000</totalshares>
+      <eps>-19</eps>
+    </stock>
+    <stock name="فاسمین-ت">
+      <filename>IRO1KSIM0002-a.csv</filename>
+      <tsetid>66701874099226162</tsetid>
+      <basevolume>800000</basevolume>
+      <outstandingshares>800000000</outstandingshares>
+      <totalshares>2000000000</totalshares>
+      <eps>114</eps>
+    </stock>
+    <stock name="فلوله-ت">
+      <filename>IRO1LMIR0002-a.csv</filename>
+      <tsetid>48623320733330408</tsetid>
+      <basevolume>200000</basevolume>
+      <outstandingshares>205000000</outstandingshares>
+      <totalshares>500000000</totalshares>
+      <eps>5</eps>
+    </stock>
+    <stock name="فملی-ت">
+      <filename>IRO1MSMI0000-a.csv</filename>
+      <tsetid>35425587644337450</tsetid>
+      <basevolume>6101281</basevolume>
+      <outstandingshares>12000000000</outstandingshares>
+      <totalshares>50000000000</totalshares>
+      <eps>142</eps>
+    </stock>
+    <stock name="فنوال-ت">
+      <filename>IRO1NALM0004-a.csv</filename>
+      <tsetid>57875847776839336</tsetid>
+      <basevolume>417362</basevolume>
+      <outstandingshares>162803280</outstandingshares>
+      <totalshares>678347000</totalshares>
+      <eps>42</eps>
+    </stock>
+    <stock name="فسرب-ت">
+      <filename>IRO1SORB0000-a.csv</filename>
+      <tsetid>54277068923045214</tsetid>
+      <basevolume>202265</basevolume>
+      <outstandingshares>99820000</outstandingshares>
+      <totalshares>322000000</totalshares>
+      <eps>63</eps>
+    </stock>
+    <stock name="فپنتا-ت">
+      <filename>IRO1SPTA0008-a.csv</filename>
+      <tsetid>68488673556087148</tsetid>
+      <basevolume>26657</basevolume>
+      <outstandingshares>15710112</outstandingshares>
+      <totalshares>54172800</totalshares>
+      <eps>1154</eps>
+    </stock>
+    <stock name="وتوکا-ت">
+      <filename>IRO1TOKA0007-a.csv</filename>
+      <tsetid>47232550823972469</tsetid>
+      <basevolume>800000</basevolume>
+      <outstandingshares>860000000</outstandingshares>
+      <totalshares>2000000000</totalshares>
+      <eps>203</eps>
+    </stock>
+    <stock name="فولای-ت">
+      <filename>IRO3FAYZ0002-a.csv</filename>
+      <tsetid>14800142337291217</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>134000000</outstandingshares>
+      <totalshares>134000000</totalshares>
+      <eps>307</eps>
+    </stock>
+    <stock name="کیمیا-ت">
+      <filename>IRO3KZGZ0008-a.csv</filename>
+      <tsetid>27814844870305607</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>115200000</outstandingshares>
+      <totalshares>115200000</totalshares>
+      <eps>579</eps>
+    </stock>
+    <stock name="فزرین-ت">
+      <filename>IRO3KZIZ0006-a.csv</filename>
+      <tsetid>43716452378323683</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>180000000</outstandingshares>
+      <totalshares>180000000</totalshares>
+      <eps>450</eps>
+    </stock>
+    <stock name="زنگان-ت">
+      <filename>IRO3ZAGZ0000-a.csv</filename>
+      <tsetid>67170215467608124</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>100000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>180</eps>
+    </stock>
+    <stock name="ذوب-ت">
+      <filename>IRO3ZOBZ0009-a.csv</filename>
+      <tsetid>9211775239375291</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>7868405600</outstandingshares>
+      <totalshares>7868405600</totalshares>
+      <eps>7</eps>
+    </stock>
+    <stock name="فزرین-ت">
+      <filename>IRO7KZIP0004-a.csv</filename>
+      <tsetid>43716452378323683</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>180000000</outstandingshares>
+      <totalshares>180000000</totalshares>
+      <eps>450</eps>
+    </stock>
+    <stock name="زنگان-ت">
+      <filename>IRO7ZAGP0008-a.csv</filename>
+      <tsetid>67170215467608124</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>100000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>180</eps>
+    </stock>
+  </category>
+  <category name="صندوق سرمایه‌گذاری قابل معامله" filename="">
+    <stock name="فیروزه-ت">
+      <filename>IRT1CFIF0005-a.csv</filename>
+      <tsetid />
+      <basevolume>0</basevolume>
+      <outstandingshares>0</outstandingshares>
+      <totalshares>0</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="اعتماد-ت">
+      <filename>IRT3FATF0002-a.csv</filename>
+      <tsetid />
+      <basevolume>0</basevolume>
+      <outstandingshares>0</outstandingshares>
+      <totalshares>0</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="آکورد-ت">
+      <filename>IRT3FKOF0005-a.csv</filename>
+      <tsetid />
+      <basevolume>0</basevolume>
+      <outstandingshares>0</outstandingshares>
+      <totalshares>0</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="آگاس-ت">
+      <filename>IRT3SAGF0002-a.csv</filename>
+      <tsetid />
+      <basevolume>0</basevolume>
+      <outstandingshares>0</outstandingshares>
+      <totalshares>0</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="اطلس-ت">
+      <filename>IRT3SATF0007-a.csv</filename>
+      <tsetid />
+      <basevolume>0</basevolume>
+      <outstandingshares>0</outstandingshares>
+      <totalshares>0</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="صایند-ت">
+      <filename>IRT3SGAF0002-a.csv</filename>
+      <tsetid />
+      <basevolume>0</basevolume>
+      <outstandingshares>0</outstandingshares>
+      <totalshares>0</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="آساس-ت">
+      <filename>IRT3SSAF0008-a.csv</filename>
+      <tsetid />
+      <basevolume>0</basevolume>
+      <outstandingshares>0</outstandingshares>
+      <totalshares>0</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="کاریس-ت">
+      <filename>IRT3SSKF0006-a.csv</filename>
+      <tsetid />
+      <basevolume>0</basevolume>
+      <outstandingshares>0</outstandingshares>
+      <totalshares>0</totalshares>
+      <eps>
+      </eps>
+    </stock>
+  </category>
+  <category name="انبوه‌سازی" filename="IRX6X70T0003.csv">
+    <stock name="ثاباد-ت">
+      <filename>IRO1ABAD0002-a.csv</filename>
+      <tsetid>59612098290740355</tsetid>
+      <basevolume>280741</basevolume>
+      <outstandingshares>103200000</outstandingshares>
+      <totalshares>240000000</totalshares>
+      <eps>157</eps>
+    </stock>
+    <stock name="ثاخت-ت">
+      <filename>IRO1BSTE0000-a.csv</filename>
+      <tsetid>17800036702302776</tsetid>
+      <basevolume>1200000</basevolume>
+      <outstandingshares>150000000</outstandingshares>
+      <totalshares>3000000000</totalshares>
+      <eps>170</eps>
+    </stock>
+    <stock name="ثمسکن-ت">
+      <filename>IRO1MSKN0005-a.csv</filename>
+      <tsetid>3863538898378476</tsetid>
+      <basevolume>2200000</basevolume>
+      <outstandingshares>1375000000</outstandingshares>
+      <totalshares>5500000000</totalshares>
+      <eps>120</eps>
+    </stock>
+    <stock name="ثنوسا-ت">
+      <filename>IRO1NSTH0003-a.csv</filename>
+      <tsetid>32845891587040106</tsetid>
+      <basevolume>300000</basevolume>
+      <outstandingshares>232500000</outstandingshares>
+      <totalshares>750000000</totalshares>
+      <eps>-150</eps>
+    </stock>
+    <stock name="ثفارس-ت">
+      <filename>IRO1OFRS0006-a.csv</filename>
+      <tsetid>30852391633490755</tsetid>
+      <basevolume>400000</basevolume>
+      <outstandingshares>540000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>300</eps>
+    </stock>
+    <stock name="ثشاهد-ت">
+      <filename>IRO1SAHD0006-a.csv</filename>
+      <tsetid>63481599728522324</tsetid>
+      <basevolume>1082653</basevolume>
+      <outstandingshares>568392720</outstandingshares>
+      <totalshares>2706632000</totalshares>
+      <eps>220</eps>
+    </stock>
+    <stock name="ثاژن-ت">
+      <filename>IRO1SAJN0002-a.csv</filename>
+      <tsetid>22215980602177059</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>400000000</outstandingshares>
+      <totalshares>400000000</totalshares>
+      <eps>268</eps>
+    </stock>
+    <stock name="وساخت-ت">
+      <filename>IRO1SAKH0007-a.csv</filename>
+      <tsetid>25514780181345713</tsetid>
+      <basevolume>436118</basevolume>
+      <outstandingshares>359797680</outstandingshares>
+      <totalshares>1090296000</totalshares>
+      <eps>36</eps>
+    </stock>
+    <stock name="ثامان-ت">
+      <filename>IRO1SGOS0004-a.csv</filename>
+      <tsetid>66456062140680461</tsetid>
+      <basevolume>297796</basevolume>
+      <outstandingshares>108751168</outstandingshares>
+      <totalshares>221941160</totalshares>
+      <eps>201</eps>
+    </stock>
+    <stock name="وآذر-ت">
+      <filename>IRO1TAZB0005-a.csv</filename>
+      <tsetid>1358190916156744</tsetid>
+      <basevolume>184570</basevolume>
+      <outstandingshares>66000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>-84</eps>
+    </stock>
+    <stock name="وتوس-ت">
+      <filename>IRO1TGOS0003-a.csv</filename>
+      <tsetid>68117765376081366</tsetid>
+      <basevolume>278396</basevolume>
+      <outstandingshares>135000000</outstandingshares>
+      <totalshares>675000000</totalshares>
+      <eps>238</eps>
+    </stock>
+    <stock name="آ_س_پ-ت">
+      <filename>IRO3ASPZ0008-a.csv</filename>
+      <tsetid>17617474823279712</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>800000000</outstandingshares>
+      <totalshares>800000000</totalshares>
+      <eps>199</eps>
+    </stock>
+    <stock name="ثباغ-ت">
+      <filename>IRO3BGHZ0001-a.csv</filename>
+      <tsetid>68909035712962732</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1000000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>363</eps>
+    </stock>
+    <stock name="ثغرب-ت">
+      <filename>IRO3CGRZ0008-a.csv</filename>
+      <tsetid>17939384202383793</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>900000000</outstandingshares>
+      <totalshares>900000000</totalshares>
+      <eps>115</eps>
+    </stock>
+    <stock name="کرمان-ت">
+      <filename>IRO3KRMZ0000-a.csv</filename>
+      <tsetid>50792786683910016</tsetid>
+      <basevolume>80040</basevolume>
+      <outstandingshares>200100000</outstandingshares>
+      <totalshares>200100000</totalshares>
+      <eps>71</eps>
+    </stock>
+    <stock name="ثپردیس-ت">
+      <filename>IRO3MPRZ0005-a.csv</filename>
+      <tsetid>53999651992586159</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>600000000</outstandingshares>
+      <totalshares>600000000</totalshares>
+      <eps>574</eps>
+    </stock>
+    <stock name="ثعمرا-ت">
+      <filename>IRO3OSHZ0002-a.csv</filename>
+      <tsetid>15726796686853780</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1300000000</outstandingshares>
+      <totalshares>1300000000</totalshares>
+      <eps>211</eps>
+    </stock>
+    <stock name="ثشرق-ت">
+      <filename>IRO3PMSZ0004-a.csv</filename>
+      <tsetid>6043384171800349</tsetid>
+      <basevolume>363901</basevolume>
+      <outstandingshares>153000000</outstandingshares>
+      <totalshares>900000000</totalshares>
+      <eps>173</eps>
+    </stock>
+    <stock name="ثشرق-ت">
+      <filename>IRO1PMSZ0006-a.csv</filename>
+      <tsetid>6043384171800349</tsetid>
+      <basevolume>363901</basevolume>
+      <outstandingshares>153000000</outstandingshares>
+      <totalshares>900000000</totalshares>
+      <eps>173</eps>
+    </stock>
+    <stock name="ثتران-ت">
+      <filename>IRO3PMTZ0003-a.csv</filename>
+      <tsetid>20926459161497908</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>200000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="ثالوند-ت">
+      <filename>IRO3SLVZ0007-a.csv</filename>
+      <tsetid>16693610252404739</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>300000000</outstandingshares>
+      <totalshares>300000000</totalshares>
+      <eps>255</eps>
+    </stock>
+    <stock name="ثرود-ت">
+      <filename>IRO3ZNDZ0008-a.csv</filename>
+      <tsetid>18883380772506226</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>500000000</outstandingshares>
+      <totalshares>500000000</totalshares>
+      <eps>142</eps>
+    </stock>
+  </category>
+  <category name="سیمان" filename="IRX6X53T0004.csv">
+    <stock name="سخزر-ت">
+      <filename>IRO1SKAZ0005-a.csv</filename>
+      <tsetid>67327029014085707</tsetid>
+      <basevolume>177557</basevolume>
+      <outstandingshares>57500000</outstandingshares>
+      <totalshares>230000000</totalshares>
+      <eps>120</eps>
+    </stock>
+    <stock name="سبجنو-ت">
+      <filename>IRO1SBOJ0000-a.csv</filename>
+      <tsetid>66295665969375744</tsetid>
+      <basevolume>181488</basevolume>
+      <outstandingshares>7840000</outstandingshares>
+      <totalshares>392000000</totalshares>
+      <eps>127</eps>
+    </stock>
+    <stock name="ساربیل-ت">
+      <filename>IRO1SADB0002-a.csv</filename>
+      <tsetid>34890845654517313</tsetid>
+      <basevolume>56000</basevolume>
+      <outstandingshares>5600000</outstandingshares>
+      <totalshares>140000000</totalshares>
+      <eps>-140</eps>
+    </stock>
+    <stock name="سدشت-ت">
+      <filename>IRO1SDST0002-a.csv</filename>
+      <tsetid>27000326841257664</tsetid>
+      <basevolume>472000</basevolume>
+      <outstandingshares>11800000</outstandingshares>
+      <totalshares>1180000000</totalshares>
+      <eps>88</eps>
+    </stock>
+    <stock name="سفار-ت">
+      <filename>IRO1SFRS0002-a.csv</filename>
+      <tsetid>41227201752535311</tsetid>
+      <basevolume>93200</basevolume>
+      <outstandingshares>2330000</outstandingshares>
+      <totalshares>233000000</totalshares>
+      <eps>313</eps>
+    </stock>
+    <stock name="سصفها-ت">
+      <filename>IRO1SEFH0000-a.csv</filename>
+      <tsetid>10568944722570445</tsetid>
+      <basevolume>80000</basevolume>
+      <outstandingshares>2000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>414</eps>
+    </stock>
+    <stock name="سخاش-ت">
+      <filename>IRO1SKHS0007-a.csv</filename>
+      <tsetid>4470657233334072</tsetid>
+      <basevolume>70572</basevolume>
+      <outstandingshares>12500000</outstandingshares>
+      <totalshares>125000000</totalshares>
+      <eps>941</eps>
+    </stock>
+    <stock name="سیدکو-ت">
+      <filename>IRO1CIDC0001-a.csv</filename>
+      <tsetid>37281199178613855</tsetid>
+      <basevolume>1600000</basevolume>
+      <outstandingshares>240000000</outstandingshares>
+      <totalshares>4000000000</totalshares>
+      <eps>135</eps>
+    </stock>
+    <stock name="سخوز-ت">
+      <filename>IRO1KHOC0009-a.csv</filename>
+      <tsetid>41974758296041288</tsetid>
+      <basevolume>260000</basevolume>
+      <outstandingshares>91000000</outstandingshares>
+      <totalshares>650000000</totalshares>
+      <eps>357</eps>
+    </stock>
+    <stock name="سبهان-ت">
+      <filename>IRO1SBHN0003-a.csv</filename>
+      <tsetid>32525655729432562</tsetid>
+      <basevolume>41999</basevolume>
+      <outstandingshares>8800000</outstandingshares>
+      <totalshares>55000000</totalshares>
+      <eps>1114</eps>
+    </stock>
+    <stock name="ساراب-ت">
+      <filename>IRO1SDAB0002-a.csv</filename>
+      <tsetid>4563413583000719</tsetid>
+      <basevolume>467290</basevolume>
+      <outstandingshares>153000000</outstandingshares>
+      <totalshares>900000000</totalshares>
+      <eps>171</eps>
+    </stock>
+    <stock name="سدور-ت">
+      <filename>IRO1SDOR0008-a.csv</filename>
+      <tsetid>27218386411183410</tsetid>
+      <basevolume>587544</basevolume>
+      <outstandingshares>218177084</outstandingshares>
+      <totalshares>641697305</totalshares>
+      <eps>-221</eps>
+    </stock>
+    <stock name="سیلام-ت">
+      <filename>IRO1SEIL0001-a.csv</filename>
+      <tsetid>14617104402836487</tsetid>
+      <basevolume>166113</basevolume>
+      <outstandingshares>4125000</outstandingshares>
+      <totalshares>412500000</totalshares>
+      <eps>15</eps>
+    </stock>
+    <stock name="سفارس-ت">
+      <filename>IRO1SFKZ0000-a.csv</filename>
+      <tsetid>15521712617204216</tsetid>
+      <basevolume>2250000</basevolume>
+      <outstandingshares>1800000000</outstandingshares>
+      <totalshares>5625000000</totalshares>
+      <eps>89</eps>
+    </stock>
+    <stock name="سفانو-ت">
+      <filename>IRO1SFNO0000-a.csv</filename>
+      <tsetid>4528607775462304</tsetid>
+      <basevolume>140000</basevolume>
+      <outstandingshares>21000000</outstandingshares>
+      <totalshares>350000000</totalshares>
+      <eps>640</eps>
+    </stock>
+    <stock name="سقاین-ت">
+      <filename>IRO1SGEN0001-a.csv</filename>
+      <tsetid>60654872678917533</tsetid>
+      <basevolume>38871</basevolume>
+      <outstandingshares>2128896</outstandingshares>
+      <totalshares>53222400</totalshares>
+      <eps>835</eps>
+    </stock>
+    <stock name="سغرب-ت">
+      <filename>IRO1SGRB0000-a.csv</filename>
+      <tsetid>52220424531578944</tsetid>
+      <basevolume>231267</basevolume>
+      <outstandingshares>57000000</outstandingshares>
+      <totalshares>300000000</totalshares>
+      <eps>186</eps>
+    </stock>
+    <stock name="سهگمت-ت">
+      <filename>IRO1SHGN0008-a.csv</filename>
+      <tsetid>41284516796232939</tsetid>
+      <basevolume>307314</basevolume>
+      <outstandingshares>110638000</outstandingshares>
+      <totalshares>502900000</totalshares>
+      <eps>168</eps>
+    </stock>
+    <stock name="سهرمز-ت">
+      <filename>IRO1SHZG0004-a.csv</filename>
+      <tsetid>29747059672582491</tsetid>
+      <basevolume>216800</basevolume>
+      <outstandingshares>59620000</outstandingshares>
+      <totalshares>542000000</totalshares>
+      <eps>746</eps>
+    </stock>
+    <stock name="سشمال-ت">
+      <filename>IRO1SIMS0004-a.csv</filename>
+      <tsetid>6757220448540984</tsetid>
+      <basevolume>344116</basevolume>
+      <outstandingshares>198474689</outstandingshares>
+      <totalshares>826977870</totalshares>
+      <eps>128</eps>
+    </stock>
+    <stock name="سکرما-ت">
+      <filename>IRO1SKER0001-a.csv</filename>
+      <tsetid>15472396110662150</tsetid>
+      <basevolume>264384</basevolume>
+      <outstandingshares>46267200</outstandingshares>
+      <totalshares>660960000</totalshares>
+      <eps>543</eps>
+    </stock>
+    <stock name="سکرد-ت">
+      <filename>IRO1SKOR0009-a.csv</filename>
+      <tsetid>65321970913593427</tsetid>
+      <basevolume>480000</basevolume>
+      <outstandingshares>444000000</outstandingshares>
+      <totalshares>1200000000</totalshares>
+      <eps>-89</eps>
+    </stock>
+    <stock name="سمازن-ت">
+      <filename>IRO1SMAZ0003-a.csv</filename>
+      <tsetid>33808206014018431</tsetid>
+      <basevolume>109598</basevolume>
+      <outstandingshares>19179720</outstandingshares>
+      <totalshares>273996000</totalshares>
+      <eps>420</eps>
+    </stock>
+    <stock name="سرود-ت">
+      <filename>IRO1SROD0008-a.csv</filename>
+      <tsetid>11964419322927535</tsetid>
+      <basevolume>307314</basevolume>
+      <outstandingshares>229500000</outstandingshares>
+      <totalshares>450000000</totalshares>
+      <eps>56</eps>
+    </stock>
+    <stock name="سپاها-ت">
+      <filename>IRO1SSEP0005-a.csv</filename>
+      <tsetid>35669480110084448</tsetid>
+      <basevolume>840000</basevolume>
+      <outstandingshares>504000000</outstandingshares>
+      <totalshares>2100000000</totalshares>
+      <eps>45</eps>
+    </stock>
+    <stock name="سشرق-ت">
+      <filename>IRO1SSHR0000-a.csv</filename>
+      <tsetid>26997316501080743</tsetid>
+      <basevolume>1061424</basevolume>
+      <outstandingshares>981817200</outstandingshares>
+      <totalshares>2653560000</totalshares>
+      <eps>-63</eps>
+    </stock>
+    <stock name="سصوفی-ت">
+      <filename>IRO1SSOF0005-a.csv</filename>
+      <tsetid>13227300125161435</tsetid>
+      <basevolume>228311</basevolume>
+      <outstandingshares>93500000</outstandingshares>
+      <totalshares>550000000</totalshares>
+      <eps>47</eps>
+    </stock>
+    <stock name="ستران-ت">
+      <filename>IRO1STEH0004-a.csv</filename>
+      <tsetid>30829203706095076</tsetid>
+      <basevolume>700000</basevolume>
+      <outstandingshares>647500000</outstandingshares>
+      <totalshares>1750000000</totalshares>
+      <eps>237</eps>
+    </stock>
+    <stock name="ساروم-ت">
+      <filename>IRO1SURO0007-a.csv</filename>
+      <tsetid>15949743338644220</tsetid>
+      <basevolume>201045</basevolume>
+      <outstandingshares>92000000</outstandingshares>
+      <totalshares>400000000</totalshares>
+      <eps>356</eps>
+    </stock>
+    <stock name="سبزوا-ت">
+      <filename>IRO3SBZZ0005-a.csv</filename>
+      <tsetid>611986653700161</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>599425579</outstandingshares>
+      <totalshares>599425579</totalshares>
+      <eps>-190</eps>
+    </stock>
+    <stock name="سکارون-ت">
+      <filename>IRO1SKRN0000-a.csv</filename>
+      <tsetid>23742726069035026</tsetid>
+      <basevolume>157332</basevolume>
+      <outstandingshares>52208333</outstandingshares>
+      <totalshares>208833333</totalshares>
+      <eps>295</eps>
+    </stock>
+  </category>
+  <category name="شیمیایی" filename="IRX6X44T0006.csv">
+    <stock name="شاملا-ت">
+      <filename>IRO1AMLH0002-a.csv</filename>
+      <tsetid>16959429956899455</tsetid>
+      <basevolume>84000</basevolume>
+      <outstandingshares>25200000</outstandingshares>
+      <totalshares>210000000</totalshares>
+      <eps>2040</eps>
+    </stock>
+    <stock name="شپارس-ت">
+      <filename>IRO1BMPS0004-a.csv</filename>
+      <tsetid>61102694810476197</tsetid>
+      <basevolume>229568</basevolume>
+      <outstandingshares>44000000</outstandingshares>
+      <totalshares>400000000</totalshares>
+      <eps>18</eps>
+    </stock>
+    <stock name="شکربن-ت">
+      <filename>IRO1CRBN0009-a.csv</filename>
+      <tsetid>27308217070238237</tsetid>
+      <basevolume>156152</basevolume>
+      <outstandingshares>137500000</outstandingshares>
+      <totalshares>250000000</totalshares>
+      <eps>153</eps>
+    </stock>
+    <stock name="شدوص-ت">
+      <filename>IRO1DODE0000-a.csv</filename>
+      <tsetid>40611478183231802</tsetid>
+      <basevolume>183016</basevolume>
+      <outstandingshares>20400000</outstandingshares>
+      <totalshares>120000000</totalshares>
+      <eps>78</eps>
+    </stock>
+    <stock name="شگل-ت">
+      <filename>IRO1GTSH0002-a.csv</filename>
+      <tsetid>44153164692325703</tsetid>
+      <basevolume>80000</basevolume>
+      <outstandingshares>34000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>2300</eps>
+    </stock>
+    <stock name="پترول-ت">
+      <filename>IRO1IPTR0001-a.csv</filename>
+      <tsetid>69143674941561637</tsetid>
+      <basevolume>7716049</basevolume>
+      <outstandingshares>3000000000</outstandingshares>
+      <totalshares>20000000000</totalshares>
+      <eps>121</eps>
+    </stock>
+    <stock name="شلعاب-ت">
+      <filename>IRO1LEAB0008-a.csv</filename>
+      <tsetid>39116664428676213</tsetid>
+      <basevolume>224316</basevolume>
+      <outstandingshares>28000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>507</eps>
+    </stock>
+    <stock name="شمواد-ت">
+      <filename>IRO1MAVA0007-a.csv</filename>
+      <tsetid>29915504190030439</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>143488000</outstandingshares>
+      <totalshares>143488000</totalshares>
+      <eps>-467</eps>
+    </stock>
+    <stock name="شکلر-ت">
+      <filename>IRO1NKOL0000-a.csv</filename>
+      <tsetid>62177651435283872</tsetid>
+      <basevolume>196155</basevolume>
+      <outstandingshares>60000000</outstandingshares>
+      <totalshares>400000000</totalshares>
+      <eps>220</eps>
+    </stock>
+    <stock name="شپترو-ت">
+      <filename>IRO1PABD0005-a.csv</filename>
+      <tsetid>11640540339380126</tsetid>
+      <basevolume>252000</basevolume>
+      <outstandingshares>138600000</outstandingshares>
+      <totalshares>630000000</totalshares>
+      <eps>117</eps>
+    </stock>
+    <stock name="شپاکسا-ت">
+      <filename>IRO1PAKS0007-a.csv</filename>
+      <tsetid>11622051128546106</tsetid>
+      <basevolume>216000</basevolume>
+      <outstandingshares>162000000</outstandingshares>
+      <totalshares>540000000</totalshares>
+      <eps>788</eps>
+    </stock>
+    <stock name="شاراک-ت">
+      <filename>IRO1PARK0008-a.csv</filename>
+      <tsetid>7711282667602555</tsetid>
+      <basevolume>2016000</basevolume>
+      <outstandingshares>705600000</outstandingshares>
+      <totalshares>5040000000</totalshares>
+      <eps>643</eps>
+    </stock>
+    <stock name="پاکشو-ت">
+      <filename>IRO1PASH0002-a.csv</filename>
+      <tsetid>62786156501584862</tsetid>
+      <basevolume>280000</basevolume>
+      <outstandingshares>49000000</outstandingshares>
+      <totalshares>700000000</totalshares>
+      <eps>2102</eps>
+    </stock>
+    <stock name="پارسان-ت">
+      <filename>IRO1PASN0004-a.csv</filename>
+      <tsetid>23441366113375722</tsetid>
+      <basevolume>5186722</basevolume>
+      <outstandingshares>7290000000</outstandingshares>
+      <totalshares>40500000000</totalshares>
+      <eps>302</eps>
+    </stock>
+    <stock name="وپترو-ت">
+      <filename>IRO1PETR0005-a.csv</filename>
+      <tsetid>59486059679335017</tsetid>
+      <basevolume>728000</basevolume>
+      <outstandingshares>564200000</outstandingshares>
+      <totalshares>1820000000</totalshares>
+      <eps>86</eps>
+    </stock>
+    <stock name="شفن-ت">
+      <filename>IRO1PFAN0009-a.csv</filename>
+      <tsetid>65122215875355555</tsetid>
+      <basevolume>380000</basevolume>
+      <outstandingshares>104500000</outstandingshares>
+      <totalshares>950000000</totalshares>
+      <eps>1968</eps>
+    </stock>
+    <stock name="جم-ت">
+      <filename>IRO1PJMZ0007-a.csv</filename>
+      <tsetid>32357363984168442</tsetid>
+      <basevolume>1172883</basevolume>
+      <outstandingshares>1632000000</outstandingshares>
+      <totalshares>9600000000</totalshares>
+      <eps>1577</eps>
+    </stock>
+    <stock name="کرماشا-ت">
+      <filename>IRO1PKER0004-a.csv</filename>
+      <tsetid>38437201078089290</tsetid>
+      <basevolume>1411680</basevolume>
+      <outstandingshares>917592000</outstandingshares>
+      <totalshares>3529200000</totalshares>
+      <eps>513</eps>
+    </stock>
+    <stock name="شخارک-ت">
+      <filename>IRO1PKHA0000-a.csv</filename>
+      <tsetid>70934270174405743</tsetid>
+      <basevolume>800000</basevolume>
+      <outstandingshares>260000000</outstandingshares>
+      <totalshares>2000000000</totalshares>
+      <eps>1801</eps>
+    </stock>
+    <stock name="فارس-ت">
+      <filename>IRO1PKLJ0005-a.csv</filename>
+      <tsetid>25244329144808274</tsetid>
+      <basevolume>2028398</basevolume>
+      <outstandingshares>2000000000</outstandingshares>
+      <totalshares>50000000000</totalshares>
+      <eps>866</eps>
+    </stock>
+    <stock name="شپدیس-ت">
+      <filename>IRO1PRDZ0008-a.csv</filename>
+      <tsetid>20562694899904339</tsetid>
+      <basevolume>1257862</basevolume>
+      <outstandingshares>780000000</outstandingshares>
+      <totalshares>6000000000</totalshares>
+      <eps>1027</eps>
+    </stock>
+    <stock name="شیراز-ت">
+      <filename>IRO1PSHZ0003-a.csv</filename>
+      <tsetid>38568786927478796</tsetid>
+      <basevolume>2040000</basevolume>
+      <outstandingshares>663000000</outstandingshares>
+      <totalshares>5100000000</totalshares>
+      <eps>78</eps>
+    </stock>
+    <stock name="تاپیکو-ت">
+      <filename>IRO1PTAP0001-a.csv</filename>
+      <tsetid>22560050433388046</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>43500000000</outstandingshares>
+      <totalshares>43500000000</totalshares>
+      <eps>230</eps>
+    </stock>
+    <stock name="شفارس-ت">
+      <filename>IRO1SHFS0004-a.csv</filename>
+      <tsetid>43781018754867729</tsetid>
+      <basevolume>365764</basevolume>
+      <outstandingshares>113329260</outstandingshares>
+      <totalshares>629607000</totalshares>
+      <eps>55</eps>
+    </stock>
+    <stock name="شیران-ت">
+      <filename>IRO1SSIN0003-a.csv</filename>
+      <tsetid>35796086458096255</tsetid>
+      <basevolume>1851595</basevolume>
+      <outstandingshares>509188680</outstandingshares>
+      <totalshares>4628988000</totalshares>
+      <eps>760</eps>
+    </stock>
+    <stock name="پترول-ت">
+      <filename>IRO3IPTZ0009-a.csv</filename>
+      <tsetid>69143674941561637</tsetid>
+      <basevolume>7716049</basevolume>
+      <outstandingshares>3000000000</outstandingshares>
+      <totalshares>20000000000</totalshares>
+      <eps>121</eps>
+    </stock>
+    <stock name="جم-ت">
+      <filename>IRO3PJMZ0005-a.csv</filename>
+      <tsetid>32357363984168442</tsetid>
+      <basevolume>1172883</basevolume>
+      <outstandingshares>1632000000</outstandingshares>
+      <totalshares>9600000000</totalshares>
+      <eps>1577</eps>
+    </stock>
+    <stock name="مارون-ت">
+      <filename>IRO3PMRZ0005-a.csv</filename>
+      <tsetid>53449700212786324</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>4000000000</outstandingshares>
+      <totalshares>4000000000</totalshares>
+      <eps>4470</eps>
+    </stock>
+    <stock name="شپدیس-ت">
+      <filename>IRO3PRDZ0006-a.csv</filename>
+      <tsetid>20562694899904339</tsetid>
+      <basevolume>1257862</basevolume>
+      <outstandingshares>780000000</outstandingshares>
+      <totalshares>6000000000</totalshares>
+      <eps>1027</eps>
+    </stock>
+    <stock name="خراسان-ت">
+      <filename>IRO3PSKZ0006-a.csv</filename>
+      <tsetid>18865378787186640</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1789912000</outstandingshares>
+      <totalshares>1789912000</totalshares>
+      <eps>1438</eps>
+    </stock>
+    <stock name="زاگرس-ت">
+      <filename>IRO3PZGZ0003-a.csv</filename>
+      <tsetid>13235547361447092</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>2400000000</outstandingshares>
+      <totalshares>2400000000</totalshares>
+      <eps>1311</eps>
+    </stock>
+    <stock name="ساینا-ت">
+      <filename>IRO3SYNZ0002-a.csv</filename>
+      <tsetid>64298008532791199</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>100000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>465</eps>
+    </stock>
+    <stock name="شتوکا-ت">
+      <filename>IRO3TPSZ0007-a.csv</filename>
+      <tsetid>38555056423456635</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>70000000</outstandingshares>
+      <totalshares>70000000</totalshares>
+      <eps>336</eps>
+    </stock>
+    <stock name="پترول-ت">
+      <filename>IRO7IPTP0007-a.csv</filename>
+      <tsetid>69143674941561637</tsetid>
+      <basevolume>7716049</basevolume>
+      <outstandingshares>3000000000</outstandingshares>
+      <totalshares>20000000000</totalshares>
+      <eps>121</eps>
+    </stock>
+  </category>
+  <category name="ذغال سنگ" filename="IRX6X10T0006.csv">
+    <stock name="کطبس-ت">
+      <filename>IRO1TBAS0004-a.csv</filename>
+      <tsetid>8977369674477111</tsetid>
+      <basevolume>155666</basevolume>
+      <outstandingshares>55500000</outstandingshares>
+      <totalshares>150000000</totalshares>
+      <eps>82</eps>
+    </stock>
+    <stock name="کشرق-ت">
+      <filename>IRO3KSGZ0007-a.csv</filename>
+      <tsetid>42690477960659940</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>84000000</outstandingshares>
+      <totalshares>84000000</totalshares>
+      <eps>25</eps>
+    </stock>
+    <stock name="کپرور-ت">
+      <filename>IRO3TBSZ0003-a.csv</filename>
+      <tsetid>22941065011246116</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>360000000</outstandingshares>
+      <totalshares>360000000</totalshares>
+      <eps>428</eps>
+    </stock>
+  </category>
+  <category name="وسایل ارتباطی" filename="IRX6X32T0000.csv">
+    <stock name="لپارس-ت">
+      <filename>IRO1PELC0000-a.csv</filename>
+      <tsetid>5187018329202415</tsetid>
+      <basevolume>120000</basevolume>
+      <outstandingshares>69000000</outstandingshares>
+      <totalshares>300000000</totalshares>
+      <eps>313</eps>
+    </stock>
+  </category>
+  <category name="رایانه" filename="IRX6X72T0001.csv">
+    <stock name="مداران-ت">
+      <filename>IRO1DADE0006-a.csv</filename>
+      <tsetid>65999092673039059</tsetid>
+      <basevolume>260000</basevolume>
+      <outstandingshares>188500000</outstandingshares>
+      <totalshares>650000000</totalshares>
+      <eps>222</eps>
+    </stock>
+    <stock name="رتاپ-ت">
+      <filename>IRO1EPRS0006-a.csv</filename>
+      <tsetid>41048299027409941</tsetid>
+      <basevolume>728682</basevolume>
+      <outstandingshares>291472640</outstandingshares>
+      <totalshares>1821704000</totalshares>
+      <eps>633</eps>
+    </stock>
+    <stock name="مرقام-ت">
+      <filename>IRO1IAGM0008-a.csv</filename>
+      <tsetid>23838634016123354</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>500000000</outstandingshares>
+      <totalshares>500000000</totalshares>
+      <eps>281</eps>
+    </stock>
+    <stock name="رانفور-ت">
+      <filename>IRO1INFO0002-a.csv</filename>
+      <tsetid>40505767672724777</tsetid>
+      <basevolume>555093</basevolume>
+      <outstandingshares>140000000</outstandingshares>
+      <totalshares>2800000000</totalshares>
+      <eps>1971</eps>
+    </stock>
+    <stock name="رکیش-ت">
+      <filename>IRO1RKSH0008-a.csv</filename>
+      <tsetid>27952969918967492</tsetid>
+      <basevolume>524000</basevolume>
+      <outstandingshares>183400000</outstandingshares>
+      <totalshares>1310000000</totalshares>
+      <eps>500</eps>
+    </stock>
+    <stock name="مفاخر-ت">
+      <filename>IRO3KARZ0004-a.csv</filename>
+      <tsetid>4247709727327181</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>170000000</outstandingshares>
+      <totalshares>170000000</totalshares>
+      <eps>174</eps>
+    </stock>
+    <stock name="سیستم-ت">
+      <filename>IRO3SYSZ0007-a.csv</filename>
+      <tsetid>50732326426469382</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>750000000</outstandingshares>
+      <totalshares>750000000</totalshares>
+      <eps>548</eps>
+    </stock>
+    <stock name="رکیش-ت">
+      <filename>IRO7KISP0003-a.csv</filename>
+      <tsetid>27952969918967492</tsetid>
+      <basevolume>524000</basevolume>
+      <outstandingshares>183400000</outstandingshares>
+      <totalshares>1310000000</totalshares>
+      <eps>500</eps>
+    </stock>
+  </category>
+  <category name="دستگاه‌های برقی" filename="IRX6X31T0001.csv">
+    <stock name="بکاب-ت">
+      <filename>IRO1JOSH0004-a.csv</filename>
+      <tsetid>70219663893822560</tsetid>
+      <basevolume>49353</basevolume>
+      <outstandingshares>7084000</outstandingshares>
+      <totalshares>15400000</totalshares>
+      <eps>262</eps>
+    </stock>
+    <stock name="بالبر-ت">
+      <filename>IRO1KALZ0002-a.csv</filename>
+      <tsetid>62952165421099192</tsetid>
+      <basevolume>151286</basevolume>
+      <outstandingshares>18240000</outstandingshares>
+      <totalshares>228000000</totalshares>
+      <eps>18</eps>
+    </stock>
+    <stock name="بکام-ت">
+      <filename>IRO1KGND0000-a.csv</filename>
+      <tsetid>22382156782768756</tsetid>
+      <basevolume>240000</basevolume>
+      <outstandingshares>156000000</outstandingshares>
+      <totalshares>600000000</totalshares>
+      <eps>85</eps>
+    </stock>
+    <stock name="بموتو-ت">
+      <filename>IRO1MOTJ0006-a.csv</filename>
+      <tsetid>22086876724551482</tsetid>
+      <basevolume>272160</basevolume>
+      <outstandingshares>47628000</outstandingshares>
+      <totalshares>680400000</totalshares>
+      <eps>465</eps>
+    </stock>
+    <stock name="بنیرو-ت">
+      <filename>IRO1NIRO0008-a.csv</filename>
+      <tsetid>20453828618330936</tsetid>
+      <basevolume>120000</basevolume>
+      <outstandingshares>27000000</outstandingshares>
+      <totalshares>300000000</totalshares>
+      <eps>520</eps>
+    </stock>
+    <stock name="بسویچ-ت">
+      <filename>IRO1SWIC0000-a.csv</filename>
+      <tsetid>47377315952751604</tsetid>
+      <basevolume>100000</basevolume>
+      <outstandingshares>12500000</outstandingshares>
+      <totalshares>250000000</totalshares>
+      <eps>651</eps>
+    </stock>
+    <stock name="بترانس-ت">
+      <filename>IRO1TRNS0001-a.csv</filename>
+      <tsetid>46752599569017089</tsetid>
+      <basevolume>600000</basevolume>
+      <outstandingshares>270000000</outstandingshares>
+      <totalshares>1500000000</totalshares>
+      <eps>739</eps>
+    </stock>
+  </category>
+  <category name="تامین آب برق گاز" filename="IRX6X40T0000.csv">
+    <stock name="بفجر-ت">
+      <filename>IRO1BFJR0002-a.csv</filename>
+      <tsetid>46178280540110577</tsetid>
+      <basevolume>673718</basevolume>
+      <outstandingshares>225000000</outstandingshares>
+      <totalshares>2500000000</totalshares>
+      <eps>2664</eps>
+    </stock>
+    <stock name="مبین-ت">
+      <filename>IRO1MOBN0000-a.csv</filename>
+      <tsetid>27922860956133067</tsetid>
+      <basevolume>2483855</basevolume>
+      <outstandingshares>1852760000</outstandingshares>
+      <totalshares>14252000000</totalshares>
+      <eps>804</eps>
+    </stock>
+    <stock name="بمپنا-ت">
+      <filename>IRO3BMAZ0000-a.csv</filename>
+      <tsetid>39807886630843041</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>728000000</outstandingshares>
+      <totalshares>728000000</totalshares>
+      <eps>2051</eps>
+    </stock>
+    <stock name="وهور-ت">
+      <filename>IRO3HORZ0003-a.csv</filename>
+      <tsetid>25215182208950217</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>2300000000</outstandingshares>
+      <totalshares>2300000000</totalshares>
+      <eps>270</eps>
+    </stock>
+    <stock name="دماوند-ت">
+      <filename>IRO3BDMZ0007-a.csv</filename>
+      <tsetid>66142616039907394</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>2760000000</outstandingshares>
+      <totalshares>2760000000</totalshares>
+      <eps>1654</eps>
+    </stock>
+  </category>
+  <category name="فنی مهندسی" filename="IRX6X74T0009.csv">
+    <stock name="رمپنا-ت">
+      <filename>IRO1MAPN0000-a.csv</filename>
+      <tsetid>67126881188552864</tsetid>
+      <basevolume>1097333</basevolume>
+      <outstandingshares>900000000</outstandingshares>
+      <totalshares>10000000000</totalshares>
+      <eps>510</eps>
+    </stock>
+    <stock name="رتکو-ت">
+      <filename>IRO1TKIN0000-a.csv</filename>
+      <tsetid>3823243780502959</tsetid>
+      <basevolume>48662</basevolume>
+      <outstandingshares>30600000</outstandingshares>
+      <totalshares>90000000</totalshares>
+      <eps>932</eps>
+    </stock>
+  </category>
+  <category name="غذایی" filename="IRX6X42T0008.csv">
+    <stock name="غبهنوش-ت">
+      <filename>IRO1BENN0001-a.csv</filename>
+      <tsetid>17059960254855208</tsetid>
+      <basevolume>96000</basevolume>
+      <outstandingshares>19200000</outstandingshares>
+      <totalshares>240000000</totalshares>
+      <eps>342</eps>
+    </stock>
+    <stock name="غچین-ت">
+      <filename>IRO1CHCH0008-a.csv</filename>
+      <tsetid>44850033148208596</tsetid>
+      <basevolume>83015</basevolume>
+      <outstandingshares>8000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>379</eps>
+    </stock>
+    <stock name="غدشت-ت">
+      <filename>IRO1DMOR0004-a.csv</filename>
+      <tsetid>2434703913394836</tsetid>
+      <basevolume>58439</basevolume>
+      <outstandingshares>4810770</outstandingshares>
+      <totalshares>53453000</totalshares>
+      <eps>61</eps>
+    </stock>
+    <stock name="غگل-ت">
+      <filename>IRO1GCOZ0003-a.csv</filename>
+      <tsetid>22299894048845903</tsetid>
+      <basevolume>30400</basevolume>
+      <outstandingshares>3040000</outstandingshares>
+      <totalshares>76000000</totalshares>
+      <eps>3961</eps>
+    </stock>
+    <stock name="غگرجی-ت">
+      <filename>IRO1GORJ0006-a.csv</filename>
+      <tsetid>31024260997481994</tsetid>
+      <basevolume>126103</basevolume>
+      <outstandingshares>14000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>244</eps>
+    </stock>
+    <stock name="غالبر-ت">
+      <filename>IRO1KLBR0001-a.csv</filename>
+      <tsetid>24303422207378456</tsetid>
+      <basevolume>295334</basevolume>
+      <outstandingshares>140000000</outstandingshares>
+      <totalshares>250000000</totalshares>
+      <eps>200</eps>
+    </stock>
+    <stock name="غپاک-ت">
+      <filename>IRO1LPAK0004-a.csv</filename>
+      <tsetid>34032872653290886</tsetid>
+      <basevolume>382197</basevolume>
+      <outstandingshares>286648079</outstandingshares>
+      <totalshares>955493596</totalshares>
+      <eps>75</eps>
+    </stock>
+    <stock name="غپینو-ت">
+      <filename>IRO1MINO0003-a.csv</filename>
+      <tsetid>18401147983387689</tsetid>
+      <basevolume>252000</basevolume>
+      <outstandingshares>182700000</outstandingshares>
+      <totalshares>630000000</totalshares>
+      <eps>701</eps>
+    </stock>
+    <stock name="غمهرا-ت">
+      <filename>IRO1MRAM0009-a.csv</filename>
+      <tsetid>6131290133202745</tsetid>
+      <basevolume>39920</basevolume>
+      <outstandingshares>6650000</outstandingshares>
+      <totalshares>35000000</totalshares>
+      <eps>1611</eps>
+    </stock>
+    <stock name="غمارگ-ت">
+      <filename>IRO1MRGN0002-a.csv</filename>
+      <tsetid>52975109254504632</tsetid>
+      <basevolume>144000</basevolume>
+      <outstandingshares>72000000</outstandingshares>
+      <totalshares>360000000</totalshares>
+      <eps>652</eps>
+    </stock>
+    <stock name="غاذر-ت">
+      <filename>IRO1PIAZ0002-a.csv</filename>
+      <tsetid>35158826900216508</tsetid>
+      <basevolume>163345</basevolume>
+      <outstandingshares>32250000</outstandingshares>
+      <totalshares>75000000</totalshares>
+      <eps>136</eps>
+    </stock>
+    <stock name="غبشهر-ت">
+      <filename>IRO1SBEH0004-a.csv</filename>
+      <tsetid>42387718866026650</tsetid>
+      <basevolume>1200000</basevolume>
+      <outstandingshares>600000000</outstandingshares>
+      <totalshares>3000000000</totalshares>
+      <eps>416</eps>
+    </stock>
+    <stock name="غشهد-ت">
+      <filename>IRO1SHAD0006-a.csv</filename>
+      <tsetid>20487994977117557</tsetid>
+      <basevolume>268528</basevolume>
+      <outstandingshares>25000000</outstandingshares>
+      <totalshares>125000000</totalshares>
+      <eps>-138</eps>
+    </stock>
+    <stock name="غشاذر-ت">
+      <filename>IRO1SHPZ0003-a.csv</filename>
+      <tsetid>59921975187856916</tsetid>
+      <basevolume>316656</basevolume>
+      <outstandingshares>52000000</outstandingshares>
+      <totalshares>400000000</totalshares>
+      <eps>34</eps>
+    </stock>
+    <stock name="غشان-ت">
+      <filename>IRO1SPKH0000-a.csv</filename>
+      <tsetid>31791737198597563</tsetid>
+      <basevolume>166945</basevolume>
+      <outstandingshares>38000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>320</eps>
+    </stock>
+    <stock name="غشصفا-ت">
+      <filename>IRO1SPPE0008-a.csv</filename>
+      <tsetid>61506294208022391</tsetid>
+      <basevolume>110156</basevolume>
+      <outstandingshares>42000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>607</eps>
+    </stock>
+    <stock name="وبشهر-ت">
+      <filename>IRO1TSBE0000-a.csv</filename>
+      <tsetid>13937270451301973</tsetid>
+      <basevolume>2808401</basevolume>
+      <outstandingshares>1895670605</outstandingshares>
+      <totalshares>7021002240</totalshares>
+      <eps>250</eps>
+    </stock>
+    <stock name="غفارس-ت">
+      <filename>IRO3GFRZ0005-a.csv</filename>
+      <tsetid>16410724132711490</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>200000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>470</eps>
+    </stock>
+    <stock name="غمینو-ت">
+      <filename>IRO3MNOZ0000-a.csv</filename>
+      <tsetid>5516102131364383</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>80500000</outstandingshares>
+      <totalshares>80500000</totalshares>
+      <eps>698</eps>
+    </stock>
+  </category>
+  <category name="سرمایه‌گذاری‌ها" filename="IRX6X56T0001.csv">
+    <stock name="واتی-ت">
+      <filename>IRO1ATDM0008-a.csv</filename>
+      <tsetid>33541897671561960</tsetid>
+      <basevolume>1200000</basevolume>
+      <outstandingshares>540000000</outstandingshares>
+      <totalshares>3000000000</totalshares>
+      <eps>419</eps>
+    </stock>
+    <stock name="پردیس-ت">
+      <filename>IRO1AYEG0008-a.csv</filename>
+      <tsetid>15039949673085566</tsetid>
+      <basevolume>500000</basevolume>
+      <outstandingshares>160000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وبوعلی-ت">
+      <filename>IRO1BALI0004-a.csv</filename>
+      <tsetid>28328710198554144</tsetid>
+      <basevolume>640000</basevolume>
+      <outstandingshares>160000000</outstandingshares>
+      <totalshares>1600000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وبیمه-ت">
+      <filename>IRO1BIME0009-a.csv</filename>
+      <tsetid>11773403764702778</tsetid>
+      <basevolume>351865</basevolume>
+      <outstandingshares>337500000</outstandingshares>
+      <totalshares>750000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وخارزم-ت">
+      <filename>IRO1IKHR0000-a.csv</filename>
+      <tsetid>7395271748414592</tsetid>
+      <basevolume>5000000</basevolume>
+      <outstandingshares>6250000000</outstandingshares>
+      <totalshares>12500000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وملت-ت">
+      <filename>IRO1MELT0004-a.csv</filename>
+      <tsetid>6626302649460766</tsetid>
+      <basevolume>586854</basevolume>
+      <outstandingshares>400000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="ونیکی-ت">
+      <filename>IRO1NIKI0003-a.csv</filename>
+      <tsetid>25336820825905643</tsetid>
+      <basevolume>2800000</basevolume>
+      <outstandingshares>1470000000</outstandingshares>
+      <totalshares>7000000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وبهمن-ت">
+      <filename>IRO1SBAH0008-a.csv</filename>
+      <tsetid>18063426072758458</tsetid>
+      <basevolume>1100000</basevolume>
+      <outstandingshares>357500000</outstandingshares>
+      <totalshares>2750000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وسکاب-ت">
+      <filename>IRO1SKBV0008-a.csv</filename>
+      <tsetid>11258722998911897</tsetid>
+      <basevolume>1400000</basevolume>
+      <outstandingshares>385000000</outstandingshares>
+      <totalshares>3500000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وصنعت-ت">
+      <filename>IRO1SNMA0007-a.csv</filename>
+      <tsetid>57309221039930244</tsetid>
+      <basevolume>1200000</basevolume>
+      <outstandingshares>360000000</outstandingshares>
+      <totalshares>3000000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="ونیرو-ت">
+      <filename>IRO1SNRO0006-a.csv</filename>
+      <tsetid>62603302940123327</tsetid>
+      <basevolume>385505</basevolume>
+      <outstandingshares>200000000</outstandingshares>
+      <totalshares>400000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وسپه-ت">
+      <filename>IRO1SPAH0002-a.csv</filename>
+      <tsetid>2328862017676109</tsetid>
+      <basevolume>2152800</basevolume>
+      <outstandingshares>1184040000</outstandingshares>
+      <totalshares>5382000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وتوسم-ت">
+      <filename>IRO1TMEL0004-a.csv</filename>
+      <tsetid>17528249960294496</tsetid>
+      <basevolume>1800000</basevolume>
+      <outstandingshares>405000000</outstandingshares>
+      <totalshares>4500000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وتوصا-ت">
+      <filename>IRO1TOSA0009-a.csv</filename>
+      <tsetid>2944500421562364</tsetid>
+      <basevolume>760000</basevolume>
+      <outstandingshares>893000000</outstandingshares>
+      <totalshares>1900000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="اعتلا-ت">
+      <filename>IRO3ETLZ0007-a.csv</filename>
+      <tsetid>36773155987365094</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>500000000</outstandingshares>
+      <totalshares>500000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="گوهران-ت">
+      <filename>IRO3GOMZ0009-a.csv</filename>
+      <tsetid>65018804181564924</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>2000000000</outstandingshares>
+      <totalshares>2000000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وگستر-ت">
+      <filename>IRO3IRNZ0003-a.csv</filename>
+      <tsetid>43951910415124966</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>400000000</outstandingshares>
+      <totalshares>400000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="وسبحان-ت">
+      <filename>IRO3SOBZ0008-a.csv</filename>
+      <tsetid>43283802997035462</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1300000000</outstandingshares>
+      <totalshares>1300000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="سدبیر-ت">
+      <filename>IRO7DBRP0000-a.csv</filename>
+      <tsetid>64341992373049080</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>102000000</outstandingshares>
+      <totalshares>102000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="سدبیر-ت">
+      <filename>IRO3DBRZ0002-a.csv</filename>
+      <tsetid>64341992373049080</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>102000000</outstandingshares>
+      <totalshares>102000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+  </category>
+  <category name="بیمه و بازنشته" filename="IRX6X66T0009.csv">
+    <stock name="آسیا-ت">
+      <filename>IRO1ASIA0008-a.csv</filename>
+      <tsetid>51106317433079213</tsetid>
+      <basevolume>920000</basevolume>
+      <outstandingshares>161000000</outstandingshares>
+      <totalshares>2300000000</totalshares>
+      <eps>151</eps>
+    </stock>
+    <stock name="البرز-ت">
+      <filename>IRO1BALB0001-a.csv</filename>
+      <tsetid>70270965300262393</tsetid>
+      <basevolume>1600000</basevolume>
+      <outstandingshares>320000000</outstandingshares>
+      <totalshares>4000000000</totalshares>
+      <eps>138</eps>
+    </stock>
+    <stock name="دانا-ت">
+      <filename>IRO1BDAN0007-a.csv</filename>
+      <tsetid>48511238766369097</tsetid>
+      <basevolume>408149</basevolume>
+      <outstandingshares>163259680</outstandingshares>
+      <totalshares>1020372999</totalshares>
+      <eps>144</eps>
+    </stock>
+    <stock name="ملت-ت">
+      <filename>IRO1BMEL0004-a.csv</filename>
+      <tsetid>13611044044646901</tsetid>
+      <basevolume>1140000</basevolume>
+      <outstandingshares>313500000</outstandingshares>
+      <totalshares>2850000000</totalshares>
+      <eps>169</eps>
+    </stock>
+    <stock name="پارسیان-ت">
+      <filename>IRO1IPAR0002-a.csv</filename>
+      <tsetid>9481703061634967</tsetid>
+      <basevolume>800000</basevolume>
+      <outstandingshares>300000000</outstandingshares>
+      <totalshares>2000000000</totalshares>
+      <eps>678</eps>
+    </stock>
+    <stock name="کوثر-ت">
+      <filename>IRO3BKSZ0002-a.csv</filename>
+      <tsetid>22275596386264204</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>2500000000</outstandingshares>
+      <totalshares>2500000000</totalshares>
+      <eps>229</eps>
+    </stock>
+    <stock name="ودی-ت">
+      <filename>IRO3BMDZ0007-a.csv</filename>
+      <tsetid>43966385447049549</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>2500000000</outstandingshares>
+      <totalshares>2500000000</totalshares>
+      <eps>201</eps>
+    </stock>
+    <stock name="بساما-ت">
+      <filename>IRO3BSMZ0000-a.csv</filename>
+      <tsetid>41625340598198551</tsetid>
+      <basevolume>247200</basevolume>
+      <outstandingshares>618000000</outstandingshares>
+      <totalshares>618000000</totalshares>
+      <eps>205</eps>
+    </stock>
+    <stock name="اتکای-ت">
+      <filename>IRO3ETKZ0008-a.csv</filename>
+      <tsetid>39751275523025334</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>2010850000</outstandingshares>
+      <totalshares>2010850000</totalshares>
+      <eps>261</eps>
+    </stock>
+    <stock name="میهن-ت">
+      <filename>IRO3MIHZ0006-a.csv</filename>
+      <tsetid>26543014712914772</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>802922000</outstandingshares>
+      <totalshares>802922000</totalshares>
+      <eps>242</eps>
+    </stock>
+    <stock name="اتکام-ت">
+      <filename>IRO3TKMZ0008-a.csv</filename>
+      <tsetid>46772701938567445</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1550000000</outstandingshares>
+      <totalshares>1550000000</totalshares>
+      <eps>263</eps>
+    </stock>
+    <stock name="کوثر-ت">
+      <filename>IRO7BKSP0000-a.csv</filename>
+      <tsetid>22275596386264204</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>2500000000</outstandingshares>
+      <totalshares>2500000000</totalshares>
+      <eps>229</eps>
+    </stock>
+    <stock name="اتکای-ت">
+      <filename>IRO7ETKP0006-a.csv</filename>
+      <tsetid>39751275523025334</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>2010850000</outstandingshares>
+      <totalshares>2010850000</totalshares>
+      <eps>261</eps>
+    </stock>
+    <stock name="نوین-ت">
+      <filename>IRO7BNOP0001-a.csv</filename>
+      <tsetid>40241078769533838</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1500000000</outstandingshares>
+      <totalshares>1500000000</totalshares>
+      <eps>-962</eps>
+    </stock>
+  </category>
+  <category name="سایر مالی" filename="IRX6X58T0009.csv">
+    <stock name="وایران-ت">
+      <filename>IRO1LIRZ0007-a.csv</filename>
+      <tsetid>3149396562827132</tsetid>
+      <basevolume>400000</basevolume>
+      <outstandingshares>250000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>226</eps>
+    </stock>
+    <stock name="ولغدر-ت">
+      <filename>IRO1LKGH0008-a.csv</filename>
+      <tsetid>23086515493897579</tsetid>
+      <basevolume>403877</basevolume>
+      <outstandingshares>233200000</outstandingshares>
+      <totalshares>530000000</totalshares>
+      <eps>69</eps>
+    </stock>
+    <stock name="ولصنم-ت">
+      <filename>IRO1LSMD0006-a.csv</filename>
+      <tsetid>71744682148776880</tsetid>
+      <basevolume>800000</basevolume>
+      <outstandingshares>260000000</outstandingshares>
+      <totalshares>2000000000</totalshares>
+      <eps>296</eps>
+    </stock>
+    <stock name="ولیز-ت">
+      <filename>IRO1LZIN0001-a.csv</filename>
+      <tsetid>20946530370469828</tsetid>
+      <basevolume>375094</basevolume>
+      <outstandingshares>252000000</outstandingshares>
+      <totalshares>600000000</totalshares>
+      <eps>111</eps>
+    </stock>
+    <stock name="ولساپا-ت">
+      <filename>IRO1RSAP0000-a.csv</filename>
+      <tsetid>45174198424472334</tsetid>
+      <basevolume>1808000</basevolume>
+      <outstandingshares>2079200000</outstandingshares>
+      <totalshares>4520000000</totalshares>
+      <eps>288</eps>
+    </stock>
+    <stock name="ولملت-ت">
+      <filename>IRO1VLMT0003-a.csv</filename>
+      <tsetid>11403770140000603</tsetid>
+      <basevolume>415973</basevolume>
+      <outstandingshares>88000000</outstandingshares>
+      <totalshares>800000000</totalshares>
+      <eps>190</eps>
+    </stock>
+    <stock name="وایران-ت">
+      <filename>IRO3LIRZ0005-a.csv</filename>
+      <tsetid>3149396562827132</tsetid>
+      <basevolume>400000</basevolume>
+      <outstandingshares>250000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>226</eps>
+    </stock>
+  </category>
+  <category name="ماشین آلات" filename="IRX6X29T0005.csv">
+    <stock name="لابسا-ت">
+      <filename>IRO1ASAL0003-a.csv</filename>
+      <tsetid>63363116407864462</tsetid>
+      <basevolume>152905</basevolume>
+      <outstandingshares>122400000</outstandingshares>
+      <totalshares>360000000</totalshares>
+      <eps>132</eps>
+    </stock>
+    <stock name="لخزر-ت">
+      <filename>IRO1KHAZ0008-a.csv</filename>
+      <tsetid>65414507129586385</tsetid>
+      <basevolume>60480</basevolume>
+      <outstandingshares>16632000</outstandingshares>
+      <totalshares>151200000</totalshares>
+      <eps>1085</eps>
+    </stock>
+    <stock name="لبوتان-ت">
+      <filename>IRO1BOTA0008-a.csv</filename>
+      <tsetid>30650426998863332</tsetid>
+      <basevolume>280581</basevolume>
+      <outstandingshares>105217864</outstandingshares>
+      <totalshares>701452430</totalshares>
+      <eps>100</eps>
+    </stock>
+    <stock name="تکمبا-ت">
+      <filename>IRO1COMB0003-a.csv</filename>
+      <tsetid>30719054967088301</tsetid>
+      <basevolume>689211</basevolume>
+      <outstandingshares>465217425</outstandingshares>
+      <totalshares>1723027501</totalshares>
+      <eps>5</eps>
+    </stock>
+    <stock name="تکشا-ت">
+      <filename>IRO1GSKE0004-a.csv</filename>
+      <tsetid>62258804563636993</tsetid>
+      <basevolume>200401</basevolume>
+      <outstandingshares>14294370</outstandingshares>
+      <totalshares>109956691</totalshares>
+      <eps>274</eps>
+    </stock>
+    <stock name="تمحرکه-ت">
+      <filename>IRO1MNMH0006-a.csv</filename>
+      <tsetid>15826229869421585</tsetid>
+      <basevolume>267094</basevolume>
+      <outstandingshares>56047780</outstandingshares>
+      <totalshares>121843000</totalshares>
+      <eps>-33</eps>
+    </stock>
+    <stock name="تپمپی-ت">
+      <filename>IRO1PIRN0007-a.csv</filename>
+      <tsetid>43062880954780884</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>330000000</outstandingshares>
+      <totalshares>330000000</totalshares>
+      <eps>442</eps>
+    </stock>
+    <stock name="لسرما-ت">
+      <filename>IRO1SRMA0003-a.csv</filename>
+      <tsetid>55897939403232751</tsetid>
+      <basevolume>237756</basevolume>
+      <outstandingshares>85840000</outstandingshares>
+      <totalshares>148000000</totalshares>
+      <eps>232</eps>
+    </stock>
+    <stock name="تکنو-ت">
+      <filename>IRO1TKNO0002-a.csv</filename>
+      <tsetid>3654864906585643</tsetid>
+      <basevolume>219106</basevolume>
+      <outstandingshares>59200000</outstandingshares>
+      <totalshares>160000000</totalshares>
+      <eps>8</eps>
+    </stock>
+    <stock name="تایرا-ت">
+      <filename>IRO1TRIR0009-a.csv</filename>
+      <tsetid>19298748452450329</tsetid>
+      <basevolume>720000</basevolume>
+      <outstandingshares>648000000</outstandingshares>
+      <totalshares>1800000000</totalshares>
+      <eps>239</eps>
+    </stock>
+    <stock name="وتوشه-ت">
+      <filename>IRO1TSHE0004-a.csv</filename>
+      <tsetid>54676885047867737</tsetid>
+      <basevolume>400000</basevolume>
+      <outstandingshares>380000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>708</eps>
+    </stock>
+  </category>
+  <category name="ابزار پزشکی و اندازه‌گیری" filename="IRX6X33T0009.csv">
+    <stock name="آکنتور-ت">
+      <filename>IRO1CONT0002-a.csv</filename>
+      <tsetid>44834847569322522</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>200000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>25070</eps>
+    </stock>
+  </category>
+  <category name="محصولات فلزی" filename="IRX6X28T0006.csv">
+    <stock name="فاذر-ت">
+      <filename>IRO1AZAB0006-a.csv</filename>
+      <tsetid>38547060135156069</tsetid>
+      <basevolume>400000</basevolume>
+      <outstandingshares>650000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>506</eps>
+    </stock>
+    <stock name="فجام-ت">
+      <filename>IRO1JAMD0000-a.csv</filename>
+      <tsetid>30765727085936322</tsetid>
+      <basevolume>18525</basevolume>
+      <outstandingshares>10000000</outstandingshares>
+      <totalshares>40000000</totalshares>
+      <eps>1769</eps>
+    </stock>
+    <stock name="فلامی-ت">
+      <filename>IRO1LAMI0001-a.csv</filename>
+      <tsetid>25286509736208688</tsetid>
+      <basevolume>159439</basevolume>
+      <outstandingshares>14400000</outstandingshares>
+      <totalshares>60000000</totalshares>
+      <eps>315</eps>
+    </stock>
+    <stock name="فاراک-ت">
+      <filename>IRO1MARK0001-a.csv</filename>
+      <tsetid>20865316761157979</tsetid>
+      <basevolume>2514619</basevolume>
+      <outstandingshares>754385757</outstandingshares>
+      <totalshares>6286547978</totalshares>
+      <eps>203</eps>
+    </stock>
+    <stock name="فاما-ت">
+      <filename>IRO1SAMA0002-a.csv</filename>
+      <tsetid>34673681828119297</tsetid>
+      <basevolume>200000</basevolume>
+      <outstandingshares>85000000</outstandingshares>
+      <totalshares>500000000</totalshares>
+      <eps>408</eps>
+    </stock>
+  </category>
+  <category name="کانی فلزی" filename="IRX6X13T0003.csv">
+    <stock name="کبافق-ت">
+      <filename>IRO1BAFG0004-a.csv</filename>
+      <tsetid>43256212620530446</tsetid>
+      <basevolume>83808</basevolume>
+      <outstandingshares>48600000</outstandingshares>
+      <totalshares>202500000</totalshares>
+      <eps>564</eps>
+    </stock>
+    <stock name="کاما-ت">
+      <filename>IRO1BAMA0001-a.csv</filename>
+      <tsetid>4942127026063388</tsetid>
+      <basevolume>200000</basevolume>
+      <outstandingshares>155000000</outstandingshares>
+      <totalshares>500000000</totalshares>
+      <eps>388</eps>
+    </stock>
+    <stock name="کچاد-ت">
+      <filename>IRO1CHML0000-a.csv</filename>
+      <tsetid>18027801615184692</tsetid>
+      <basevolume>5827506</basevolume>
+      <outstandingshares>3103650000</outstandingshares>
+      <totalshares>28215000000</totalshares>
+      <eps>175</eps>
+    </stock>
+    <stock name="کگل-ت">
+      <filename>IRO1GOLG0005-a.csv</filename>
+      <tsetid>35700344742885862</tsetid>
+      <basevolume>5750431</basevolume>
+      <outstandingshares>5400000000</outstandingshares>
+      <totalshares>30000000000</totalshares>
+      <eps>176</eps>
+    </stock>
+    <stock name="کنور-ت">
+      <filename>IRO1KNRZ0001-a.csv</filename>
+      <tsetid>20411759370751096</tsetid>
+      <basevolume>1174569</basevolume>
+      <outstandingshares>323006420</outstandingshares>
+      <totalshares>2936422000</totalshares>
+      <eps>27</eps>
+    </stock>
+    <stock name="ومعادن-ت">
+      <filename>IRO1MADN0004-a.csv</filename>
+      <tsetid>58931793851445922</tsetid>
+      <basevolume>7716049</basevolume>
+      <outstandingshares>6706744800</outstandingshares>
+      <totalshares>27944770000</totalshares>
+      <eps>105</eps>
+    </stock>
+    <stock name="کروی-ت">
+      <filename>IRO1ROOI0007-a.csv</filename>
+      <tsetid>22787503301679573</tsetid>
+      <basevolume>965580</basevolume>
+      <outstandingshares>1110417000</outstandingshares>
+      <totalshares>2413950000</totalshares>
+      <eps>108</eps>
+    </stock>
+  </category>
+  <category name="سایر معادن" filename="IRX6X14T0002.csv">
+    <stock name="کماسه-ت">
+      <filename>IRO1TAMI0003-a.csv</filename>
+      <tsetid>67690708346979840</tsetid>
+      <basevolume>283930</basevolume>
+      <outstandingshares>92340000</outstandingshares>
+      <totalshares>162000000</totalshares>
+      <eps>97</eps>
+    </stock>
+  </category>
+  <category name="چند رشته‌ای" filename="IRX6X39T0003.csv">
+    <stock name="وبانک-ت">
+      <filename>IRO1BANK0008-a.csv</filename>
+      <tsetid>48010225447410247</tsetid>
+      <basevolume>5184033</basevolume>
+      <outstandingshares>2600000000</outstandingshares>
+      <totalshares>16250000000</totalshares>
+      <eps>527</eps>
+    </stock>
+    <stock name="وغدیر-ت">
+      <filename>IRO1GDIR0000-a.csv</filename>
+      <tsetid>26014913469567886</tsetid>
+      <basevolume>5422993</basevolume>
+      <outstandingshares>7833600000</outstandingshares>
+      <totalshares>46080000000</totalshares>
+      <eps>404</eps>
+    </stock>
+    <stock name="وامید-ت">
+      <filename>IRO1OIMC0006-a.csv</filename>
+      <tsetid>52232388263291380</tsetid>
+      <basevolume>6523157</basevolume>
+      <outstandingshares>1800000000</outstandingshares>
+      <totalshares>30000000000</totalshares>
+      <eps>335</eps>
+    </stock>
+    <stock name="وصندوق-ت">
+      <filename>IRO1SAND0008-a.csv</filename>
+      <tsetid>37204371816016200</tsetid>
+      <basevolume>5767013</basevolume>
+      <outstandingshares>3780000000</outstandingshares>
+      <totalshares>27000000000</totalshares>
+      <eps>302</eps>
+    </stock>
+  </category>
+  <category name="کاشی و سرامیک" filename="IRX6X49T0001.csv">
+    <stock name="کلوند-ت">
+      <filename>IRO1ALVN0003-a.csv</filename>
+      <tsetid>32678431934327184</tsetid>
+      <basevolume>333778</basevolume>
+      <outstandingshares>28000000</outstandingshares>
+      <totalshares>400000000</totalshares>
+      <eps>111</eps>
+    </stock>
+    <stock name="کهرام-ت">
+      <filename>IRO1BHSM0004-a.csv</filename>
+      <tsetid>11278802993290837</tsetid>
+      <basevolume>226347</basevolume>
+      <outstandingshares>37500000</outstandingshares>
+      <totalshares>75000000</totalshares>
+      <eps>-158</eps>
+    </stock>
+    <stock name="کچینی-ت">
+      <filename>IRO1CHIR0000-a.csv</filename>
+      <tsetid>55376450081365373</tsetid>
+      <basevolume>171880</basevolume>
+      <outstandingshares>70152176</outstandingshares>
+      <totalshares>167028991</totalshares>
+      <eps>-128</eps>
+    </stock>
+    <stock name="کپارس-ت">
+      <filename>IRO1KPRS0008-a.csv</filename>
+      <tsetid>9698674686691945</tsetid>
+      <basevolume>67926</basevolume>
+      <outstandingshares>6142500</outstandingshares>
+      <totalshares>87750000</totalshares>
+      <eps>887</eps>
+    </stock>
+    <stock name="کسعدی-ت">
+      <filename>IRO1KSAD0001-a.csv</filename>
+      <tsetid>29122854902865456</tsetid>
+      <basevolume>291206</basevolume>
+      <outstandingshares>22500000</outstandingshares>
+      <totalshares>250000000</totalshares>
+      <eps>70</eps>
+    </stock>
+    <stock name="کساوه-ت">
+      <filename>IRO1SINA0003-a.csv</filename>
+      <tsetid>25001509088465005</tsetid>
+      <basevolume>211820</basevolume>
+      <outstandingshares>7000000</outstandingshares>
+      <totalshares>529000000</totalshares>
+      <eps></eps>
+    </stock>
+    <stock name="کترام-ت">
+      <filename>IRO1TKSM0009-a.csv</filename>
+      <tsetid>24085906177899789</tsetid>
+      <basevolume>493583</basevolume>
+      <outstandingshares>117992400</outstandingshares>
+      <totalshares>294981000</totalshares>
+      <eps>34</eps>
+    </stock>
+  </category>
+  <category name="کانی غیرفلزی" filename="IRX6X54T0003.csv">
+    <stock name="کسرا-ت">
+      <filename>IRO1ARDK0002-a.csv</filename>
+      <tsetid>4614779520007780</tsetid>
+      <basevolume>17000</basevolume>
+      <outstandingshares>16575000</outstandingshares>
+      <totalshares>42500000</totalshares>
+      <eps>3778</eps>
+    </stock>
+    <stock name="کخاک-ت">
+      <filename>IRO1KCHI0007-a.csv</filename>
+      <tsetid>16405556680571453</tsetid>
+      <basevolume>70000</basevolume>
+      <outstandingshares>21000000</outstandingshares>
+      <totalshares>175000000</totalshares>
+      <eps>1581</eps>
+    </stock>
+    <stock name="کفرا-ت">
+      <filename>IRO1NASI0003-a.csv</filename>
+      <tsetid>23837844039713715</tsetid>
+      <basevolume>162390</basevolume>
+      <outstandingshares>123052299</outstandingshares>
+      <totalshares>372885754</totalshares>
+      <eps>507</eps>
+    </stock>
+    <stock name="کاذر-ت">
+      <filename>IRO1NSAZ0002-a.csv</filename>
+      <tsetid>49353447565507376</tsetid>
+      <basevolume>223714</basevolume>
+      <outstandingshares>210000000</outstandingshares>
+      <totalshares>300000000</totalshares>
+      <eps>56</eps>
+    </stock>
+    <stock name="کفپارس-ت">
+      <filename>IRO1NSPS0004-a.csv</filename>
+      <tsetid>19471788163911687</tsetid>
+      <basevolume>79580</basevolume>
+      <outstandingshares>36000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>63</eps>
+    </stock>
+    <stock name="کپشیر-ت">
+      <filename>IRO1PSIR0002-a.csv</filename>
+      <tsetid>57639364758870873</tsetid>
+      <basevolume>43376</basevolume>
+      <outstandingshares>20813503</outstandingshares>
+      <totalshares>67140331</totalshares>
+      <eps>908</eps>
+    </stock>
+    <stock name="کگاز-ت">
+      <filename>IRO1SGAZ0001-a.csv</filename>
+      <tsetid>62346804681275278</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>250000000</outstandingshares>
+      <totalshares>250000000</totalshares>
+      <eps>81</eps>
+    </stock>
+    <stock name="کهمدا-ت">
+      <filename>IRO1SHMD0002-a.csv</filename>
+      <tsetid>67206358287598044</tsetid>
+      <basevolume>115200</basevolume>
+      <outstandingshares>120960000</outstandingshares>
+      <totalshares>288000000</totalshares>
+      <eps>1274</eps>
+    </stock>
+    <stock name="کرازی-ت">
+      <filename>IRO1TSRZ0007-a.csv</filename>
+      <tsetid>57086055330734195</tsetid>
+      <basevolume>97200</basevolume>
+      <outstandingshares>72900000</outstandingshares>
+      <totalshares>243000000</totalshares>
+      <eps>892</eps>
+    </stock>
+    <stock name="شلیا-ت">
+      <filename>IRO3LIAZ0004-a.csv</filename>
+      <tsetid>50357669250352454</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>80820000</outstandingshares>
+      <totalshares>80820000</totalshares>
+      <eps>226</eps>
+    </stock>
+    <stock name="کمرجان-ت">
+      <filename>IRO3MRJZ0003-a.csv</filename>
+      <tsetid>50633804639547462</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>20000000</outstandingshares>
+      <totalshares>20000000</totalshares>
+      <eps>198</eps>
+    </stock>
+    <stock name="کتوکا-ت">
+      <filename>IRO3TUKZ0008-a.csv</filename>
+      <tsetid>65671173927025645</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>72000000</outstandingshares>
+      <totalshares>72000000</totalshares>
+      <eps>654</eps>
+    </stock>
+  </category>
+  <category name="فرآورده نفتی" filename="IRX6X23T0001.csv">
+    <stock name="ونفت-ت">
+      <filename>IRO1NAFT0005-a.csv</filename>
+      <tsetid>33931218652865616</tsetid>
+      <basevolume>660000</basevolume>
+      <outstandingshares>907500000</outstandingshares>
+      <totalshares>1650000000</totalshares>
+      <eps>242</eps>
+    </stock>
+    <stock name="شبهرن-ت">
+      <filename>IRO1NBEH0009-a.csv</filename>
+      <tsetid>22667016906590506</tsetid>
+      <basevolume>800000</basevolume>
+      <outstandingshares>640000000</outstandingshares>
+      <totalshares>2000000000</totalshares>
+      <eps>1938</eps>
+    </stock>
+    <stock name="شنفت-ت">
+      <filename>IRO1NPRS0005-a.csv</filename>
+      <tsetid>14073782708315535</tsetid>
+      <basevolume>400000</basevolume>
+      <outstandingshares>110000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>1037</eps>
+    </stock>
+    <stock name="شبندر-ت">
+      <filename>IRO1PNBA0003-a.csv</filename>
+      <tsetid>35366681030756042</tsetid>
+      <basevolume>2061431</basevolume>
+      <outstandingshares>2070000000</outstandingshares>
+      <totalshares>13800000000</totalshares>
+      <eps>160</eps>
+    </stock>
+    <stock name="شپنا-ت">
+      <filename>IRO1PNES0000-a.csv</filename>
+      <tsetid>7745894403636165</tsetid>
+      <basevolume>4033885</basevolume>
+      <outstandingshares>3200000000</outstandingshares>
+      <totalshares>20000000000</totalshares>
+      <eps>291</eps>
+    </stock>
+    <stock name="شبریز-ت">
+      <filename>IRO1PNTB0002-a.csv</filename>
+      <tsetid>48753732042176709</tsetid>
+      <basevolume>1553684</basevolume>
+      <outstandingshares>233052660</outstandingshares>
+      <totalshares>3884211000</totalshares>
+      <eps>557</eps>
+    </stock>
+    <stock name="شرانل-ت">
+      <filename>IRO3NOLZ0001-a.csv</filename>
+      <tsetid>44013656953678055</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1000000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>1829</eps>
+    </stock>
+    <stock name="شپاس-ت">
+      <filename>IRO3NPSZ0003-a.csv</filename>
+      <tsetid>35178706978554988</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>600000000</outstandingshares>
+      <totalshares>600000000</totalshares>
+      <eps>833</eps>
+    </stock>
+    <stock name="شاوان-ت">
+      <filename>IRO3PNLZ0000-a.csv</filename>
+      <tsetid>60247433951600827</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1143421600</outstandingshares>
+      <totalshares>1143421600</totalshares>
+      <eps>45</eps>
+    </stock>
+    <stock name="شراز-ت">
+      <filename>IRO3PRZZ0000-a.csv</filename>
+      <tsetid>33683240001985963</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1027548600</outstandingshares>
+      <totalshares>1027548600</totalshares>
+      <eps>254</eps>
+    </stock>
+    <stock name="شتران-ت">
+      <filename>IRO3PTRZ0008-a.csv</filename>
+      <tsetid>34066377223628725</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>12000000000</outstandingshares>
+      <totalshares>12000000000</totalshares>
+      <eps>219</eps>
+    </stock>
+  </category>
+  <category name="محصولات کاغذی" filename="IRX6X21T0003.csv">
+    <stock name="چکارن-ت">
+      <filename>IRO1KRTI0006-a.csv</filename>
+      <tsetid>53113471126689455</tsetid>
+      <basevolume>151515</basevolume>
+      <outstandingshares>51030000</outstandingshares>
+      <totalshares>182250000</totalshares>
+      <eps>286</eps>
+    </stock>
+    <stock name="چکاوه-ت">
+      <filename>IRO1KSKA0002-a.csv</filename>
+      <tsetid>24254843881948059</tsetid>
+      <basevolume>114837</basevolume>
+      <outstandingshares>25000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>310</eps>
+    </stock>
+    <stock name="چکاپا-ت">
+      <filename>IRO3JPRZ0000-a.csv</filename>
+      <tsetid>12329915567896606</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1315596000</outstandingshares>
+      <totalshares>1315596000</totalshares>
+      <eps>301</eps>
+    </stock>
+  </category>
+  <category name="دارویی" filename="IRX6X43T0007.csv">
+    <stock name="والبر-ت">
+      <filename>IRO1ALBZ0003-a.csv</filename>
+      <tsetid>57944184894703821</tsetid>
+      <basevolume>1040040</basevolume>
+      <outstandingshares>780030000</outstandingshares>
+      <totalshares>2600100000</totalshares>
+      <eps>732</eps>
+    </stock>
+    <stock name="دامین-ت">
+      <filename>IRO1AMIN0009-a.csv</filename>
+      <tsetid>50100062518826135</tsetid>
+      <basevolume>232000</basevolume>
+      <outstandingshares>145000000</outstandingshares>
+      <totalshares>580000000</totalshares>
+      <eps>400</eps>
+    </stock>
+    <stock name="دابور-ت">
+      <filename>IRO1DABO0006-a.csv</filename>
+      <tsetid>61332057061846617</tsetid>
+      <basevolume>57600</basevolume>
+      <outstandingshares>12960000</outstandingshares>
+      <totalshares>144000000</totalshares>
+      <eps>2231</eps>
+    </stock>
+    <stock name="دالبر-ت">
+      <filename>IRO1DALZ0001-a.csv</filename>
+      <tsetid>60451823714332895</tsetid>
+      <basevolume>272000</basevolume>
+      <outstandingshares>176800000</outstandingshares>
+      <totalshares>680000000</totalshares>
+      <eps>1397</eps>
+    </stock>
+    <stock name="ددام-ت">
+      <filename>IRO1DAML0006-a.csv</filename>
+      <tsetid>66450490505950110</tsetid>
+      <basevolume>88075</basevolume>
+      <outstandingshares>13806000</outstandingshares>
+      <totalshares>106200000</totalshares>
+      <eps>526</eps>
+    </stock>
+    <stock name="وپخش-ت">
+      <filename>IRO1DARO0008-a.csv</filename>
+      <tsetid>7183333492448248</tsetid>
+      <basevolume>240000</basevolume>
+      <outstandingshares>30000000</outstandingshares>
+      <totalshares>600000000</totalshares>
+      <eps>2693</eps>
+    </stock>
+    <stock name="دفارا-ت">
+      <filename>IRO1DFRB0008-a.csv</filename>
+      <tsetid>56550776668133562</tsetid>
+      <basevolume>160000</basevolume>
+      <outstandingshares>24000000</outstandingshares>
+      <totalshares>400000000</totalshares>
+      <eps>1144</eps>
+    </stock>
+    <stock name="دجابر-ت">
+      <filename>IRO1DJBR0004-a.csv</filename>
+      <tsetid>33406621820337161</tsetid>
+      <basevolume>151200</basevolume>
+      <outstandingshares>64260000</outstandingshares>
+      <totalshares>378000000</totalshares>
+      <eps>2190</eps>
+    </stock>
+    <stock name="دکوثر-ت">
+      <filename>IRO1DKSR0002-a.csv</filename>
+      <tsetid>23353689102956991</tsetid>
+      <basevolume>306560</basevolume>
+      <outstandingshares>221400000</outstandingshares>
+      <totalshares>540000000</totalshares>
+      <eps>58</eps>
+    </stock>
+    <stock name="داسوه-ت">
+      <filename>IRO1DOSE0003-a.csv</filename>
+      <tsetid>12387472624849835</tsetid>
+      <basevolume>100000</basevolume>
+      <outstandingshares>50000000</outstandingshares>
+      <totalshares>250000000</totalshares>
+      <eps>3047</eps>
+    </stock>
+    <stock name="دارو-ت">
+      <filename>IRO1DPAK0004-a.csv</filename>
+      <tsetid>67988012428906654</tsetid>
+      <basevolume>200000</basevolume>
+      <outstandingshares>50000000</outstandingshares>
+      <totalshares>500000000</totalshares>
+      <eps>1086</eps>
+    </stock>
+    <stock name="درازک-ت">
+      <filename>IRO1DRZK0003-a.csv</filename>
+      <tsetid>22255783119783047</tsetid>
+      <basevolume>164000</basevolume>
+      <outstandingshares>73800000</outstandingshares>
+      <totalshares>410000000</totalshares>
+      <eps>1963</eps>
+    </stock>
+    <stock name="دسبحان-ت">
+      <filename>IRO1DSBH0005-a.csv</filename>
+      <tsetid>5866848234665627</tsetid>
+      <basevolume>120000</basevolume>
+      <outstandingshares>45000000</outstandingshares>
+      <totalshares>300000000</totalshares>
+      <eps>2113</eps>
+    </stock>
+    <stock name="دسبحا-ت">
+      <filename>IRO1DSOB0006-a.csv</filename>
+      <tsetid>43622578471330344</tsetid>
+      <basevolume>401600</basevolume>
+      <outstandingshares>140560000</outstandingshares>
+      <totalshares>1004000000</totalshares>
+      <eps>1155</eps>
+    </stock>
+    <stock name="تیپیکو-ت">
+      <filename>IRO1DTIP0007-a.csv</filename>
+      <tsetid>29758477602878557</tsetid>
+      <basevolume>1160000</basevolume>
+      <outstandingshares>580000000</outstandingshares>
+      <totalshares>2900000000</totalshares>
+      <eps>1131</eps>
+    </stock>
+    <stock name="دزهراوی-ت">
+      <filename>IRO1DZAH0007-a.csv</filename>
+      <tsetid>8915450910866216</tsetid>
+      <basevolume>96000</basevolume>
+      <outstandingshares>26400000</outstandingshares>
+      <totalshares>240000000</totalshares>
+      <eps>2710</eps>
+    </stock>
+    <stock name="دلر-ت">
+      <filename>IRO1EXIR0008-a.csv</filename>
+      <tsetid>4384288570322406</tsetid>
+      <basevolume>180000</basevolume>
+      <outstandingshares>58500000</outstandingshares>
+      <totalshares>450000000</totalshares>
+      <eps>720</eps>
+    </stock>
+    <stock name="دیران-ت">
+      <filename>IRO1IRDR0007-a.csv</filename>
+      <tsetid>69090868458637360</tsetid>
+      <basevolume>135208</basevolume>
+      <outstandingshares>36000000</outstandingshares>
+      <totalshares>240000000</totalshares>
+      <eps>588</eps>
+    </stock>
+    <stock name="دکیمی-ت">
+      <filename>IRO1KIMI0004-a.csv</filename>
+      <tsetid>20024911381434086</tsetid>
+      <basevolume>96000</basevolume>
+      <outstandingshares>72000000</outstandingshares>
+      <totalshares>240000000</totalshares>
+      <eps>1451</eps>
+    </stock>
+    <stock name="دپارس-ت">
+      <filename>IRO1PDRO0001-a.csv</filename>
+      <tsetid>70474983732269112</tsetid>
+      <basevolume>84000</basevolume>
+      <outstandingshares>48300000</outstandingshares>
+      <totalshares>210000000</totalshares>
+      <eps>2659</eps>
+    </stock>
+    <stock name="دتماد-ت">
+      <filename>IRO1TMVD0003-a.csv</filename>
+      <tsetid>34641719089573667</tsetid>
+      <basevolume>144000</basevolume>
+      <outstandingshares>32400000</outstandingshares>
+      <totalshares>360000000</totalshares>
+      <eps>1165</eps>
+    </stock>
+    <stock name="دبالک-ت">
+      <filename>IRO3BLKZ0009-a.csv</filename>
+      <tsetid>71510396252618330</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>140000000</outstandingshares>
+      <totalshares>140000000</totalshares>
+      <eps>770</eps>
+    </stock>
+    <stock name="دسانکو-ت">
+      <filename>IRO3DSNZ0007-a.csv</filename>
+      <tsetid>47348197320716810</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>381000000</outstandingshares>
+      <totalshares>381000000</totalshares>
+      <eps>290</eps>
+    </stock>
+    <stock name="دتولید-ت">
+      <filename>IRO3DTDZ0008-a.csv</filename>
+      <tsetid>18093681647131179</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>300000000</outstandingshares>
+      <totalshares>300000000</totalshares>
+      <eps>1139</eps>
+    </stock>
+    <stock name="کی_بی_سی-ت">
+      <filename>IRO3KBCZ0000-a.csv</filename>
+      <tsetid>62977319271289925</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>140000000</outstandingshares>
+      <totalshares>140000000</totalshares>
+      <eps>530</eps>
+    </stock>
+    <stock name="کاسپین-ت">
+      <filename>IRO3KSPZ0006-a.csv</filename>
+      <tsetid>28431095903407567</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>150000000</outstandingshares>
+      <totalshares>150000000</totalshares>
+      <eps>2868</eps>
+    </stock>
+    <stock name="پخش-ت">
+      <filename>IRO3PKSH0008-a.csv</filename>
+      <tsetid>7183333492448248</tsetid>
+      <basevolume>240000</basevolume>
+      <outstandingshares>30000000</outstandingshares>
+      <totalshares>600000000</totalshares>
+      <eps>2693</eps>
+    </stock>
+  </category>
+  <category name="انتشار و چاپ" filename="IRX6X22T0002.csv">
+    <stock name="چافست-ت">
+      <filename>IRO1OFST0004-a.csv</filename>
+      <tsetid>23936607891892333</tsetid>
+      <basevolume>80000</basevolume>
+      <outstandingshares>70000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>983</eps>
+    </stock>
+  </category>
+  <category name="خرده‌فروشی" filename="IRXZXRTL0001.csv">
+    <stock name="قاسم-ت">
+      <filename>IRO3GASZ0009-a.csv</filename>
+      <tsetid>34540569618314880</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>600000000</outstandingshares>
+      <totalshares>600000000</totalshares>
+      <eps>354</eps>
+    </stock>
+  </category>
+  <category name="لاستیک و پلاستیک" filename="IRX6X25T0009.csv">
+    <stock name="پکرمان-ت">
+      <filename>IRO1BARZ0007-a.csv</filename>
+      <tsetid>23214828924506640</tsetid>
+      <basevolume>666500</basevolume>
+      <outstandingshares>83312500</outstandingshares>
+      <totalshares>1666250000</totalshares>
+      <eps>630</eps>
+    </stock>
+    <stock name="پدرخش-ت">
+      <filename>IRO1DRKH0005-a.csv</filename>
+      <tsetid>24079409192818584</tsetid>
+      <basevolume>194628</basevolume>
+      <outstandingshares>14280000</outstandingshares>
+      <totalshares>51000000</totalshares>
+      <eps>41</eps>
+    </stock>
+    <stock name="پکویر-ت">
+      <filename>IRO1KVRZ0001-a.csv</filename>
+      <tsetid>7235435095059069</tsetid>
+      <basevolume>280000</basevolume>
+      <outstandingshares>105000000</outstandingshares>
+      <totalshares>700000000</totalshares>
+      <eps>615</eps>
+    </stock>
+    <stock name="پلاست-ت">
+      <filename>IRO1PLST0005-a.csv</filename>
+      <tsetid>52593789542874668</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>57600000</outstandingshares>
+      <totalshares>57600000</totalshares>
+      <eps>1968</eps>
+    </stock>
+    <stock name="پسهند-ت">
+      <filename>IRO1SHND0001-a.csv</filename>
+      <tsetid>10120557300120078</tsetid>
+      <basevolume>177305</basevolume>
+      <outstandingshares>70000000</outstandingshares>
+      <totalshares>350000000</totalshares>
+      <eps>215</eps>
+    </stock>
+    <stock name="پتایر-ت">
+      <filename>IRO1TAIR0008-a.csv</filename>
+      <tsetid>41935584690956944</tsetid>
+      <basevolume>142898</basevolume>
+      <outstandingshares>85940645</outstandingshares>
+      <totalshares>286468818</totalshares>
+      <eps>7</eps>
+    </stock>
+    <stock name="پکویر-ت">
+      <filename>IRO3KVRZ0009-a.csv</filename>
+      <tsetid>7235435095059069</tsetid>
+      <basevolume>280000</basevolume>
+      <outstandingshares>105000000</outstandingshares>
+      <totalshares>700000000</totalshares>
+      <eps>615</eps>
+    </stock>
+    <stock name="پلاست-ت">
+      <filename>IRO7PLSP0003-a.csv</filename>
+      <tsetid>52593789542874668</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>57600000</outstandingshares>
+      <totalshares>57600000</totalshares>
+      <eps>1968</eps>
+    </stock>
+  </category>
+  <category name="قند و شکر" filename="IRX6X38T0004.csv">
+    <stock name="قزوین-ت">
+      <filename>IRO1GGAZ0005-a.csv</filename>
+      <tsetid>15259343650667588</tsetid>
+      <basevolume>108249</basevolume>
+      <outstandingshares>19811805</outstandingshares>
+      <totalshares>165098374</totalshares>
+      <eps>142</eps>
+    </stock>
+    <stock name="قهکمت-ت">
+      <filename>IRO1GHEG0003-a.csv</filename>
+      <tsetid>14398278072324784</tsetid>
+      <basevolume>150739</basevolume>
+      <outstandingshares>24624000</outstandingshares>
+      <totalshares>273600000</totalshares>
+      <eps>273</eps>
+    </stock>
+    <stock name="قشهد-ت">
+      <filename>IRO1GHND0005-a.csv</filename>
+      <tsetid>37631109616997982</tsetid>
+      <basevolume>117343</basevolume>
+      <outstandingshares>36234000</outstandingshares>
+      <totalshares>201300000</totalshares>
+      <eps>323</eps>
+    </stock>
+    <stock name="قمرو-ت">
+      <filename>IRO1GMRO0001-a.csv</filename>
+      <tsetid>43342306308122676</tsetid>
+      <basevolume>123701</basevolume>
+      <outstandingshares>42000000</outstandingshares>
+      <totalshares>120000000</totalshares>
+      <eps>113</eps>
+    </stock>
+    <stock name="قنیشا-ت">
+      <filename>IRO1GNBO0008-a.csv</filename>
+      <tsetid>63380098535169030</tsetid>
+      <basevolume>286697</basevolume>
+      <outstandingshares>74000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>19</eps>
+    </stock>
+    <stock name="قنقش-ت">
+      <filename>IRO1GNJN0001-a.csv</filename>
+      <tsetid>34454945407422432</tsetid>
+      <basevolume>71582</basevolume>
+      <outstandingshares>11120000</outstandingshares>
+      <totalshares>139000000</totalshares>
+      <eps>144</eps>
+    </stock>
+    <stock name="قپیرا-ت">
+      <filename>IRO1GPSH0006-a.csv</filename>
+      <tsetid>67030488744129337</tsetid>
+      <basevolume>80000</basevolume>
+      <outstandingshares>54000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>400</eps>
+    </stock>
+    <stock name="قثابت-ت">
+      <filename>IRO1GSBE0005-a.csv</filename>
+      <tsetid>44967158778304588</tsetid>
+      <basevolume>413565</basevolume>
+      <outstandingshares>362100000</outstandingshares>
+      <totalshares>510000000</totalshares>
+      <eps>-133</eps>
+    </stock>
+    <stock name="قشرین-ت">
+      <filename>IRO1GSHI0005-a.csv</filename>
+      <tsetid>30535783752961355</tsetid>
+      <basevolume>52340</basevolume>
+      <outstandingshares>28500000</outstandingshares>
+      <totalshares>50000000</totalshares>
+      <eps>-958</eps>
+    </stock>
+    <stock name="قشکر-ت">
+      <filename>IRO1SHKR0008-a.csv</filename>
+      <tsetid>35964395659427029</tsetid>
+      <basevolume>275786</basevolume>
+      <outstandingshares>96000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>14</eps>
+    </stock>
+    <stock name="قچار-ت">
+      <filename>IRO3CHRZ0007-a.csv</filename>
+      <tsetid>23600798892801694</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>140000000</outstandingshares>
+      <totalshares>140000000</totalshares>
+      <eps>58</eps>
+    </stock>
+    <stock name="قشیر-ت">
+      <filename>IRO3GHSZ0002-a.csv</filename>
+      <tsetid>71523986304961239</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>100692000</outstandingshares>
+      <totalshares>100692000</totalshares>
+      <eps>98</eps>
+    </stock>
+  </category>
+  <category name="رادیویی" filename="IRX6X64T0001.csv">
+    <stock name="اخابر-ت">
+      <filename>IRO1MKBT0008-a.csv</filename>
+      <tsetid>22811176775480091</tsetid>
+      <basevolume>4271679</basevolume>
+      <outstandingshares>3000000000</outstandingshares>
+      <totalshares>60000000000</totalshares>
+      <eps>423</eps>
+    </stock>
+    <stock name="همراه-ت">
+      <filename>IRO3HMRZ0005-a.csv</filename>
+      <tsetid>68635710163497089</tsetid>
+      <basevolume>289712</basevolume>
+      <outstandingshares>360000000</outstandingshares>
+      <totalshares>4000000000</totalshares>
+      <eps>7150</eps>
+    </stock>
+    <stock name="همراه-ت">
+      <filename>IRO1HMRZ0007-a.csv</filename>
+      <tsetid>68635710163497089</tsetid>
+      <basevolume>289712</basevolume>
+      <outstandingshares>360000000</outstandingshares>
+      <totalshares>4000000000</totalshares>
+      <eps>7150</eps>
+    </stock>
+  </category>
+  <category name="حمل و نقل" filename="IRX6X60T0005.csv">
+    <stock name="حپارسا-ت">
+      <filename>IRO3HPRZ0002-a.csv</filename>
+      <tsetid>917857106093847</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>100000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>2672</eps>
+    </stock>
+    <stock name="حریل-ت">
+      <filename>IRO3HRLZ0006-a.csv</filename>
+      <tsetid>5564768007356822</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1960000000</outstandingshares>
+      <totalshares>1960000000</totalshares>
+      <eps>38</eps>
+    </stock>
+    <stock name="حسینا-ت">
+      <filename>IRO3SMBZ0000-a.csv</filename>
+      <tsetid>1625149423498289</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>167000000</outstandingshares>
+      <totalshares>167000000</totalshares>
+      <eps>2244</eps>
+    </stock>
+    <stock name="حفارس-ت">
+      <filename>IRO1HFRS0005-a.csv</filename>
+      <tsetid>35424116338766901</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>349000000</outstandingshares>
+      <totalshares>349000000</totalshares>
+      <eps>-51</eps>
+    </stock>
+    <stock name="حپترو-ت">
+      <filename>IRO1HJPT0002-a.csv</filename>
+      <tsetid>16369313804633525</tsetid>
+      <basevolume>151607</basevolume>
+      <outstandingshares>34000000</outstandingshares>
+      <totalshares>200000000</totalshares>
+      <eps>180</eps>
+    </stock>
+    <stock name="حتوکا-ت">
+      <filename>IRO1HTOK0000-a.csv</filename>
+      <tsetid>22260326095996531</tsetid>
+      <basevolume>211238</basevolume>
+      <outstandingshares>138600000</outstandingshares>
+      <totalshares>330000000</totalshares>
+      <eps>295</eps>
+    </stock>
+    <stock name="حکشتی-ت">
+      <filename>IRO1KSHJ0008-a.csv</filename>
+      <tsetid>60610861509165508</tsetid>
+      <basevolume>2071680</basevolume>
+      <outstandingshares>1147510000</outstandingshares>
+      <totalshares>16393000000</totalshares>
+      <eps>178</eps>
+    </stock>
+    <stock name="حتاید-ت">
+      <filename>IRO1TAYD0004-a.csv</filename>
+      <tsetid>3722699128879020</tsetid>
+      <basevolume>400000</basevolume>
+      <outstandingshares>390000000</outstandingshares>
+      <totalshares>1000000000</totalshares>
+      <eps>486</eps>
+    </stock>
+    <stock name="توریل-ت">
+      <filename>IRO3TORZ0009-a.csv</filename>
+      <tsetid>37389789764168256</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>2000000000</outstandingshares>
+      <totalshares>2000000000</totalshares>
+      <eps>288</eps>
+    </stock>
+  </category>
+  <category name="محصولات چوبی" filename="IRX6X20T0004.csv">
+    <stock name="چفیبر-ت">
+      <filename>IRO1FIBR0003-a.csv</filename>
+      <tsetid>64358061873294912</tsetid>
+      <basevolume>71551</basevolume>
+      <outstandingshares>26600000</outstandingshares>
+      <totalshares>70000000</totalshares>
+      <eps>17</eps>
+    </stock>
+  </category>
+  <category name="حمل و نقل آبی" filename="">
+    <stock name="حخزر-ت">
+      <filename>IRO3KHZZ0007-a.csv</filename>
+      <tsetid>28253678449273505</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>1080000000</outstandingshares>
+      <totalshares>1080000000</totalshares>
+      <eps>223</eps>
+    </stock>
+  </category>
+  <category name="حق تقدم ها" filename="">
+    <stock name="خاهنح-ت">
+      <filename>IRR1ATIR0100-a.csv</filename>
+      <tsetid>29716513021318095</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>0</outstandingshares>
+      <totalshares>0</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="دفاراح-ت">
+      <filename>IRR1DFRB0100-a.csv</filename>
+      <tsetid>38285971158073841</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>100000000</outstandingshares>
+      <totalshares>100000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="حتوکاح-ت">
+      <filename>IRR1HTOK0102-a.csv</filename>
+      <tsetid>42892937789646488</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>123852000</outstandingshares>
+      <totalshares>123852000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+    <stock name="حخزرح-ت">
+      <filename>IRR3KHZZ0109-a.csv</filename>
+      <tsetid>22542452157560209</tsetid>
+      <basevolume>1</basevolume>
+      <outstandingshares>540000000</outstandingshares>
+      <totalshares>540000000</totalshares>
+      <eps>
+      </eps>
+    </stock>
+  </category>
+</market>
